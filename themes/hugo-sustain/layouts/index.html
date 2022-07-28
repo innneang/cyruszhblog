@@ -1,0 +1,22 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      {{ partial "header" . }}
+      <section id="about">
+        <div style="max-width: 850px;" class="container">
+        <div class="avatar">
+          <img with="180" height="180" class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
+        </div>
+        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, indie-maker, almost-grad medical student.</h3>
+        <h3>I am building things at night </h3>
+        <h3>🥑 <a href='#'>Readavocado</a> - Your best Kindle companion</h3>
+        <h3>🏫 <a href='https://protutor.in.th'>Protutor</a> - The biggest tutoring marketplace in Thailand</h3>
+        <!-- <h3>Have a look at some of my working <a href="{{ .Site.BaseURL }}projects/"> projects</a>.</h3> -->
+        <h3>Contact me at <a href="http://twitter.com/{{ .Site.Params.Social.Twitter }}">@{{ .Site.Params.Social.Twitter }}</a></h3>
+        {{ partial "social.html" . }}
+        </div>
+      </section>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>

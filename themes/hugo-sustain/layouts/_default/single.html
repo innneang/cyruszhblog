@@ -1,0 +1,84 @@
+{{ partial "head" . }}
+
+<body>
+  <div id="wrap">
+    <!-- Header -->
+    {{ partial "header" . }}
+    {{ if isset .Params "showpagemeta" }}
+    {{ .Render "projects" }}
+    {{ else }}
+    <div class="container">
+      <div class="blog-post">
+        <h3>
+          <strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong>
+        </h3>
+      </div>
+      <div class="blog-title">
+        <h4>
+          {{ .Date.Format "January 2, 2006" }}
+          &nbsp;&nbsp;
+          {{ range .Params.tags }}
+          <span class="label label-success">{{ . }}</span>
+          {{ end }}
+        </h4>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="blogpost">
+            {{ .Content }}
+          </div>
+          {{ $related := first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+          {{ with $related }}
+          <hr>
+          <div class="related-posts">
+            <h5>Related Posts</h5>
+            {{ range . }}
+            <div class="row">
+              <div class="col-sm-4 col-md-4 col-lg-4">
+                <h6 style="text-align: right">
+                  {{ .Date.Format "January 2, 2006" }}
+                </h6>
+              </div>
+              <div class="col-sm-8 col-md-8 col-lg-8">
+                <h6 style="text-align: left">
+                  <strong><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></strong>
+                </h6>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+        <div style='position:absolute; display:hidden;' id='middleAnimated'></div>
+        <div id='tweetbox' data-aos-offset='500' data-aos-duration='1200' data-aos="fade-left"
+          data-aos-anchor='#middleAnimated'>
+          <img id='closetweet' src='{{ .Site.BaseURL }}img/x.png'>
+          <p class='text-muted'>ชอบบทความนี้รึเปล่า? <br>กดทวิตเป็นกำลังใจ 🤟</p>
+          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+            data-url='{{ .Permalink }}' data-size="large" data-text="บทความนี้นายเขียนดีมากเลย เราชอบมาก !"
+            data-via="cyruszhang99" data-show-count="false">Tweet</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div>
+      <hr>
+      <!-- {{ partial "disqus" . }} -->
+    </div>
+  </div>
+  {{ end }}
+  </div>
+
+  <!-- Footer -->
+  {{ partial "footer" . }}
+
+  {{ if .Params.lazy}}
+  <script>
+    window.lazyLoadOptions = {
+      elements_selector: '.lazy'
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
+  {{ end }}
+</body>
+
+</html>

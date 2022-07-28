@@ -1,0 +1,54 @@
+baseurl = "https://www.cyruszhang.com/"
+languageCode = "en-US"
+title = "Innnnnnnnnnn"
+# Enable comments by entering your Disqus shortname
+#disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = "UA-39295142-1"
+theme = "hugo-sustain"
+disableHugoGeneratorInject = true
+#publishDir = "docs"
+[permalinks]
+  blog = "/:year/:month/:slug"
+
+[params]
+  avatar = "ava.jpeg"
+  author = "Cyrus Zhang"
+  description = "Cyrus Blog Diary"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+#Email         = "saratlim@gmail.com"
+  Twitter       = "cyruszhang99"
+  Github        = "innneang"
+
+
+## Main Menu
+# [[menu.main]]
+#   name = "hire"
+#   weight = 10
+#   identifier = "hire"
+#   url = "http://hire.cyruszhang.com/"
+[[menu.main]]
+  name = "th"
+  weight = 20
+  identifier = "th"
+  url = "/th/"
+[[menu.main]]
+  name = "eng"
+  weight = 20
+  identifier = "eng"
+  url = "/eng/"
+# [[menu.main]]
+#   name = "projects"
+#   identifier = "projects"
+#   weight = 200
+#   url = "/projects/"
+#[[menu.main]]
+#  name = "About"
+#  identifier = "About"
+# weight = 300
+#url = "/about/"
