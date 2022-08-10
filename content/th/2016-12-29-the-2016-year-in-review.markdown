@@ -11,7 +11,7 @@ tags:
 - Year in Review
 ---
 
-# ![](https://www.cyruszhang.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
+# ![](https://www.cyruszh.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
 
 
 
@@ -22,7 +22,7 @@ tags:
 
 ปี 2016 มีอะไรผ่านเข้ามาในชีวิตมากมายเหลือเกิน ทุกอย่างมันผ่านไปเร็วมาก รู้สึกเหมือนเพิ่งจะคุยกับเพื่อนเลยว่าปีใหม่ปีนี้ไปไหนดี ตัดภาพมาก็เลยไปปีนึงแล้ว ปีนี้เริ่มปีด้วยการลืมเขียน Birthday Resolution ก่อนเลย เพิ่งจะรู้ตัวตอนมาหาอ่านเมื่อกี้นี้เอง จะเขียนสรุปเรื่องตัวเองเป็นหัวข้อ<!-- more -->
 
-ย้อนไปอ่านของปี [2015](https://www.cyruszhang.com/2015/12/the-2015-year-in-review/) [2014](https://www.cyruszhang.com/2014/12/the-2014-year-in-review/) ได้
+ย้อนไปอ่านของปี [2015](https://www.cyruszh.com/2015/12/the-2015-year-in-review/) [2014](https://www.cyruszh.com/2014/12/the-2014-year-in-review/) ได้
 
 
 ## เรื่องเรียน
@@ -50,7 +50,7 @@ tags:
 
 เขียนบล็อกน้อยมาก เอาเวลาไปทำโปรเจ็คอันนึงกับ @nutn0n (เสร็จเมื่อไรเดียวมาเขียนอวด) กับการเรียนพิเศษ เทอมสองเป็นเทอมที่เรียนเยอะมากเทอมนึง
 
-Subscribe [Spotify](https://www.cyruszhang.com/2016/03/spotify-premium-at-philippines/) กับ iCloud Photo Library ยอมเสียเงินเพื่อลดขั้นตอนในการดาวน์โหลดเพลง ลดขั้นตอนในการก็อปรูปลงมือถือ ลงคอม; เราเคยเขียนเรื่องการ [Simplify my life: ปิดเทอมน่าเบื่อ ชีวิตยุ่งเหยิง](https://www.cyruszhang.com/2014/03/simplify-my-life/) ไว้นานแล้ว ทุกวันนี้ก็ยังพยายามนำมาใช้
+Subscribe [Spotify](https://www.cyruszh.com/2016/03/spotify-premium-at-philippines/) กับ iCloud Photo Library ยอมเสียเงินเพื่อลดขั้นตอนในการดาวน์โหลดเพลง ลดขั้นตอนในการก็อปรูปลงมือถือ ลงคอม; เราเคยเขียนเรื่องการ [Simplify my life: ปิดเทอมน่าเบื่อ ชีวิตยุ่งเหยิง](https://www.cyruszh.com/2014/03/simplify-my-life/) ไว้นานแล้ว ทุกวันนี้ก็ยังพยายามนำมาใช้
 
 
 ## Movies Movies Movies

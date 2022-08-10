@@ -16,8 +16,8 @@ tags:
 - webserver
 ---
 
-[![godaddy](https://www.cyruszhang.com/wp-content/uploads/2013/12/godaddy11.jpeg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/12/godaddy11.jpeg)
+[![godaddy](https://www.cyruszh.com/wp-content/uploads/2013/12/godaddy11.jpeg)
+](https://www.cyruszh.com/wp-content/uploads/2013/12/godaddy11.jpeg)
 
 เนื่องด้วยผมชอบให้เพื่อนเข้ามาอ่านเว็บผม ซึ่งปกติจะเขียนเรื่องที่คนส่วนใหญ่ต้องใช้กันเช่น Tutorial ต่างๆ และเพื่อนก็ชอบถามว่า ทำยังไงหรอ ทำไงวะ ทำไงอะ สอนหน่อยดิ หรืออะไรประมาณนี้ นับรวมๆแล้วก็จะเกินสิบคนแล้วละ ขี้เกียจตอบ เขียนไว้เลยดีกว่า :D
 
@@ -45,12 +45,12 @@ tags:
 
 ค่าโฮสต์ ปีละ 500 บาท แนะนำ Sukjaihosting, THZhost, Bangmodhostiong [ผมไม่ได้ค่าคอมมิสชั่นนะ คนเขาแนะนำมาเยอะ]
 
-โดเมนคืออะไร ? โดเมนคือชื่อเว็บนั้นเอง เช่น Google.com ก็คือโดเมน Facebook.com ก็คือโดเมน cyruszhang.com ก็คือโดเมน จดโดเมนสามารถจดได้ที่ Godaddy ครับ Godaddy คือเว็บบริการจดโดเมนที่สามารถให้เราจ่ายเงินแล้วเราจะได้ชื่อเว็บพวกนี้มาครับ
+โดเมนคืออะไร ? โดเมนคือชื่อเว็บนั้นเอง เช่น Google.com ก็คือโดเมน Facebook.com ก็คือโดเมน cyruszh.com ก็คือโดเมน จดโดเมนสามารถจดได้ที่ Godaddy ครับ Godaddy คือเว็บบริการจดโดเมนที่สามารถให้เราจ่ายเงินแล้วเราจะได้ชื่อเว็บพวกนี้มาครับ
 
 โฮสต์คืออะไร? โฮสต์คือพื้นที่เก็บข้อมูลของเรา เคยสงสัยไหมว่า พวกรูปภาพ ไรพวกนี้มันเก็บไว้ที่ไหน มันเก็บไว้ในโฮสต์นี้ละ โฮสต์เป็นที่ๆจะให้เราเก็บข้อมูลของเราไม่ว่าจะเป็น ตัวอักษรทุกตัว รูปทุกรูป หรืออะไรก็ตามแต่ครับ
 
-[![wordpress-logo](https://www.cyruszhang.com/wp-content/uploads/2013/12/wordpress-logo-1024x341.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/12/wordpress-logo.jpg)
+[![wordpress-logo](https://www.cyruszh.com/wp-content/uploads/2013/12/wordpress-logo-1024x341.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/12/wordpress-logo.jpg)
 
 
 

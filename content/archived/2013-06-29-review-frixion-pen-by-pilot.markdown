@@ -26,8 +26,8 @@ tags:
 
 หมึกที่แพงก็ใช่ว่าจะใช้ได้นาน อย่างเก่งก็เดือนนึง สำหรับเด็กนักเรียนอย่างผม
 
-[![frxion by pilot](https://www.cyruszhang.com/wp-content/uploads/2013/06/frixion-pen.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/frixion-pen.jpg) คำทดสอบจาก @suppakit_ ผ่าน iMenn Blog
+[![frxion by pilot](https://www.cyruszh.com/wp-content/uploads/2013/06/frixion-pen.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/frixion-pen.jpg) คำทดสอบจาก @suppakit_ ผ่าน iMenn Blog
 
 <!-- more -->
 
@@ -39,8 +39,8 @@ tags:
 
 ทีนี้ไม่ว่าจะจดเลคเชอร์ หรือคิดเลขบนหนังสือโต้งก็ทำได้ง่ายๆแล้ว :D
 
-[![frixion ไส้ปากกา](https://www.cyruszhang.com/wp-content/uploads/2013/06/20130629_1931431.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/20130629_1931431.jpg)
+[![frixion ไส้ปากกา](https://www.cyruszh.com/wp-content/uploads/2013/06/20130629_1931431.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/20130629_1931431.jpg)
 
 ไส้ปากกาซื้อได้ที่ร้าน Moshi ทั่วประเทศครับ
 

@@ -15,12 +15,12 @@ tags:
 - ปูยักษ์
 ---
 
-เรื่องนี้ผมอยากเขียนตั้งแต่อยู่ญี่ปุ่นแล้ว เรื่องที่ผมไปก็อยากเขียนเป็นตอนๆ แต่ด้วยความขี้เกียจจึงเขียนรวดเดียวจบเลย แหะๆ ไปอ่านกันได้ที่บล็อกตอน[อินหนีเที่ยว](https://www.cyruszhang.com/in-at-japan/)
+เรื่องนี้ผมอยากเขียนตั้งแต่อยู่ญี่ปุ่นแล้ว เรื่องที่ผมไปก็อยากเขียนเป็นตอนๆ แต่ด้วยความขี้เกียจจึงเขียนรวดเดียวจบเลย แหะๆ ไปอ่านกันได้ที่บล็อกตอน[อินหนีเที่ยว](https://www.cyruszh.com/in-at-japan/)
 
 วันนั้นเป็นวันที่เราจะต้องไปกินปูยักษ์ แพงมหาบรรลัย [มื้อนั้นกินไป 5000 กว่าบาทไทย] และช็อปปิ้งชิวๆต่อที่ Dotonbori ซึ่งที่นี้มีจุดเด่นเรื่อง <del>หุ่นขี้ผึ้ง</del> Glico [มองเผินๆทีแรกแล้วนึกว่าอาเบะ] ลักษณะเชิดแขนวิ่งเข้าเส้นชัย คนที่มาที่นี้แล้วไม่มาถ่ายรูป ถือว่ามาไม่ถึง
 
-[![dotonbori japan](https://www.cyruszhang.com/wp-content/uploads/2013/06/dotonbori.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/dotonbori.jpg)
+[![dotonbori japan](https://www.cyruszh.com/wp-content/uploads/2013/06/dotonbori.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/dotonbori.jpg)
 
 <!-- more -->
 

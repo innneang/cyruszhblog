@@ -25,8 +25,8 @@ tags:
 
 ตัวแอพชื่อ Pou มีการให้อาหาร รักษาโรค บลา บลา บลา เหมือนของจริง แต่ว่าเป็นเวอร์ชั่น digital แถมเป็นภาพสีอีกด้วย
 
-[![tamagotchi](https://www.cyruszhang.com/wp-content/uploads/2013/02/unnamed-horz.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/02/unnamed-horz.jpg)
+[![tamagotchi](https://www.cyruszh.com/wp-content/uploads/2013/02/unnamed-horz.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/02/unnamed-horz.jpg)
 
 สามารถหามาเล่นได้โดย ค้นหาคำว่า tamagotchi หรือ Pou หรือไปที่หน้าเว็บ[ Playstore ](https://play.google.com/store/apps/details?id=me.pou.app)เอาก็ได้
 

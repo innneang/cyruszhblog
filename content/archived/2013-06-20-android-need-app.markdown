@@ -22,14 +22,14 @@ tags:
 
 1.แอพสังคมออนไลน์ทั้งหลาย Instagram, Facebook, Messenger, Line เป็นแอพที่ชาววัยรุ่นอย่างเราๆขาดกันไม่ได้เลยจริงไหม [?]
 
-2.Kingsoft Office เป็นแอพที่เหมือนย่อ Microsoft Word ในคอมมาใส่ในมือถือเรา ทำงานได้ทนแทนกันได้ บางครั้งก็สามารถช่วยชีวิตเวลาขับขันได้เหมือนกัน เช่น ปริ้นท์งานเร่งด่วน โดยใช้ควบคู่กับ [USB-Host](https://www.cyruszhang.com/usb-host/) นี่แจ่มเลย
+2.Kingsoft Office เป็นแอพที่เหมือนย่อ Microsoft Word ในคอมมาใส่ในมือถือเรา ทำงานได้ทนแทนกันได้ บางครั้งก็สามารถช่วยชีวิตเวลาขับขันได้เหมือนกัน เช่น ปริ้นท์งานเร่งด่วน โดยใช้ควบคู่กับ [USB-Host](https://www.cyruszh.com/usb-host/) นี่แจ่มเลย
 
-[![app icon](https://www.cyruszhang.com/wp-content/uploads/2013/06/cats.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/cats.jpg)
+[![app icon](https://www.cyruszh.com/wp-content/uploads/2013/06/cats.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/cats.jpg)
 
 <!-- more -->
 
-3.[Galaxy Gift](https://www.cyruszhang.com/galaxy-gift-misterdonut/) แอพนี่เฉพาะชาว Samsung  เท่านั้น [อิอิ] สรุปง่ายๆคือมันจะรวบรวมสิทธิพิเศษต่างๆมาให้เช่น MisterDonut 4 ชิ้น 4 บาท บางครั้งก็มีดูหนังฟรี 1 แถมหนึ่ง Hotdog,ข้าว Chester Grill ราคาไม่ถึง 10 บาทก็มีบ่อยๆ
+3.[Galaxy Gift](https://www.cyruszh.com/galaxy-gift-misterdonut/) แอพนี่เฉพาะชาว Samsung  เท่านั้น [อิอิ] สรุปง่ายๆคือมันจะรวบรวมสิทธิพิเศษต่างๆมาให้เช่น MisterDonut 4 ชิ้น 4 บาท บางครั้งก็มีดูหนังฟรี 1 แถมหนึ่ง Hotdog,ข้าว Chester Grill ราคาไม่ถึง 10 บาทก็มีบ่อยๆ
 
 4.Color Note เป็นแอพโน๊ตทุกอย่าง คล้ายๆแอพ Note ของฝั่ง iPhone แต่ดีกว่าด้านการใช้งานที่หลากหลาย เช่นการทำเป็นเช็กลิสต์ ปรับสีโน๊ตเรียงความสำคัญต่างๆ ฟังค์ชั่นที่เหลือผมสาธยายไม่หมด ไปลองใช้กันเองนะ :P
 

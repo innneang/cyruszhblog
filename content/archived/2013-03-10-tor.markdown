@@ -12,8 +12,8 @@ tags:
 - tor
 ---
 
-[![Tor_project_logo_hq](https://www.cyruszhang.com/wp-content/uploads/2013/03/Tor_project_logo_hq-300x190.png)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/Tor_project_logo_hq.png)
+[![Tor_project_logo_hq](https://www.cyruszh.com/wp-content/uploads/2013/03/Tor_project_logo_hq-300x190.png)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/Tor_project_logo_hq.png)
 
 ที่ไม่ได้โพสมาตั้ง 3 วันผมไปปั่นงานอยู่ครับ เป็นเกี่ยวกับการปลอม IP เลยได้ศึกษารายละเอียดมาบ้าง เช่นปลอมไอพีโดยใช้ Proxy ที่หลายคนอาจจะรู้กันอยู่แล้ว วันนี้จะมาแนะนำให้รู้จัก Tor กันครับ
 

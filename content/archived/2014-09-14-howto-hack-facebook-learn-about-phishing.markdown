@@ -58,19 +58,19 @@ tags:
 
 3.อัพโหลดไฟล์ที่ดาวน์โหลดมาขึ้นไปบนโฮสต์
 
-![hack-facebook-upload](https://www.cyruszhang.com/wp-content/uploads/2014/09/hack-facebook-upload.png)
+![hack-facebook-upload](https://www.cyruszh.com/wp-content/uploads/2014/09/hack-facebook-upload.png)
 
 
 4.จากนั้นก็ลองเปิดเว็บดู เราจะได้หน้าเว็บที่เหมือน Facebook ทุกประการมาครับ
 
-![hack-facebook-phishing-site](https://www.cyruszhang.com/wp-content/uploads/2014/09/hack-facebook-phishing-site-1024x585.png)
+![hack-facebook-phishing-site](https://www.cyruszh.com/wp-content/uploads/2014/09/hack-facebook-phishing-site-1024x585.png)
 
 
 5.หากเหยื่อหรือใครก็ตามกรอก Username/Password ลงไปแล้วกด Login จะถูก Redirect ไปหน้าเว็บของจริง ส่วนเราจะได้รหัสผ่านมา
 
 สามารถเข้าไปดูรหัสผ่านได้ที่ไฟล์ log.txt ครับ ทีนี้เราก็สามารถนำรหัสผ่านไป Login ได้ที่เว็บเฟสบุคของจริงได้เลยครับ
 
-![hack-facebook-log](https://www.cyruszhang.com/wp-content/uploads/2014/09/hack-facebook-log.png)
+![hack-facebook-log](https://www.cyruszh.com/wp-content/uploads/2014/09/hack-facebook-log.png)
 
 
 

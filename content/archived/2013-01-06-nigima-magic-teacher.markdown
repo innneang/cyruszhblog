@@ -13,7 +13,7 @@ categories:
 
 หลังจากที่ได้อ่านแขนกลคนแปรธาตุปแล้ว เรื่องนี้เพื่อนแนะนำมาบอกว่าเป็นแนวที่เขาชอบ บอกว่ามันเป็นแนวฮาเร็มนะ
 
-![เนกิมะ](https://www.cyruszhang.com/wp-content/uploads/2013/01/2013-01-06-22.20.19-300x225.jpg)
+![เนกิมะ](https://www.cyruszh.com/wp-content/uploads/2013/01/2013-01-06-22.20.19-300x225.jpg)
 
 
 รีวิว ยังไม่ได้อ่าน
@@ -36,13 +36,13 @@ categories:
 
 <!-- more -->
 
-![เนกิมะ](https://www.cyruszhang.com/wp-content/uploads/2013/01/2013-01-06-22.19.31-300x225.jpg)
+![เนกิมะ](https://www.cyruszh.com/wp-content/uploads/2013/01/2013-01-06-22.19.31-300x225.jpg)
 
 
-![เนกิมะ](https://www.cyruszhang.com/wp-content/uploads/2013/01/2013-01-06-22.20.04-2-225x300.jpg)
+![เนกิมะ](https://www.cyruszh.com/wp-content/uploads/2013/01/2013-01-06-22.20.04-2-225x300.jpg)
 
 
-![เนกิมะ](https://www.cyruszhang.com/wp-content/uploads/2013/01/2013-01-06-22.20.40-300x225.jpg)
+![เนกิมะ](https://www.cyruszh.com/wp-content/uploads/2013/01/2013-01-06-22.20.40-300x225.jpg)
 
 
 จบ

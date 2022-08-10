@@ -21,8 +21,8 @@ Facebook ก็ไม่เว้น อยู่ดีๆก็ส่งมา 
 
 เท่านั้นใครยังไม่มีก็ไปดาวน์โหลดกันมาก่อนนะครับ  :D
 
-[![facebook-sticker-tut](https://www.cyruszhang.com/wp-content/uploads/2013/06/facebook-sticker-tut-1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/facebook-sticker-tut-1.jpg)
+[![facebook-sticker-tut](https://www.cyruszh.com/wp-content/uploads/2013/06/facebook-sticker-tut-1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/facebook-sticker-tut-1.jpg)
 
 1.ก่อนอื่นเราต้องไปดาวน์โหลดส่วนเสริม [Facebook Chat Smiley](https://chrome.google.com/webstore/detail/facebook-chat-smiley/pijhmhknlfbdliicpolmamkgppljfpgp) มาก่อน กดดาวน์โหลดได้ที่นี้ [คลิก](https://chrome.google.com/webstore/detail/facebook-chat-smiley/pijhmhknlfbdliicpolmamkgppljfpgp) พอกดเข้าไปแล้วกด เพิ่มใน Chrome ได้เลย
 

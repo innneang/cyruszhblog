@@ -24,15 +24,15 @@ tags:
 
 1.ขั้นตอนแรกในการเขียนโปรแกรมภาษา vb.net คือดาวน์โหลดเครื่องมือการเขียนหรือที่เรียกว่า IDE ใช้รันโปรแกรม Compiled โปรแกรม~~~
 
-[![visual basic](https://www.cyruszhang.com/wp-content/uploads/2013/03/visual.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/visual.jpg)
+[![visual basic](https://www.cyruszh.com/wp-content/uploads/2013/03/visual.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/visual.jpg)
 
 โปรแกรมในการเขียนนั้นคือ Visual Studio หามาใช้ได้จาก[เว็บของ Microsoft ](http://www.microsoft.com/visualstudio/eng/downloads) แนะนำให้เป็น Visual Studio Express 2012 เพราะไม่ต้องเสียเงินทีหลัง ใช้ได้ตลอด พอดาวน์โหลดแล้วก็ติดตั้งให้เรียบร้อย ผมขอข้ามขั้นตอนการติดตั้งครับเครื่องผมมีอยู่แล้ว
 
 2.กดไปที่ New Project ตั้งชื่อที่ชอบอะไรก็ได้ตามใจหรือไม่ต้องตั้งแบบผม OK ไปเลย มันจัดการเอง จะได้หน้าว่างๆขึ้นมา 1 หน้า ด้านข้างจะมีคำว่า Toolbox พอกดจะขึ้นแบบภาพด้านล่าง สามารถลากพวกปุ่มต่างๆลงไปได้ตามสะดวก ผมลาก Button กัน Textbox ลงไป จะได้ตามรูปล่างๆ
 
-[![visual2-vert](https://www.cyruszhang.com/wp-content/uploads/2013/03/visual2-vert.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/visual2-vert.jpg)
+[![visual2-vert](https://www.cyruszh.com/wp-content/uploads/2013/03/visual2-vert.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/visual2-vert.jpg)
 
 
 
@@ -41,7 +41,7 @@ tags:
 ผมลองเขียนว่า
 
 
-<blockquote>textbox1.text = "https://www.cyruszhang.com"</blockquote>
+<blockquote>textbox1.text = "https://www.cyruszh.com"</blockquote>
 
 
 คำว่า Textbox1 หมายถึงกล่องข้อความที่ผมลากลงไป, ".text" จะไป เปลี่ยนข้อความใน textbox1 ให้เป็นไปตามข้อความหลัง = ครับ

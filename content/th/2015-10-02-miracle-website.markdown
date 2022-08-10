@@ -9,7 +9,7 @@ categories:
 - Innn's Diary
 ---
 
-![Miraclebytu78.tk](https://www.cyruszhang.com/wp-content/uploads/2015/07/Screen-Shot-2558-10-02-at-8.52.02-PM-1-1024x519.jpg)
+![Miraclebytu78.tk](https://www.cyruszh.com/wp-content/uploads/2015/07/Screen-Shot-2558-10-02-at-8.52.02-PM-1-1024x519.jpg)
 
 
 อัพเดต 2/10/15 : เสร็จจริงๆแล้ว มีเปลี่ยนหลายอย่างมาก มีการทำระบบ ติดตามการสั่งซื้อ และเชื่อมต่อฐานข้อมูล Mysql ทั้งหมด \\ตอนแรกใช้ File-based txt และ อายจัง ><
@@ -30,7 +30,7 @@ categories:
 
 Project แรกที่ทำก็คือเว็บขายหนังสือห้องผมเอง โดยผมเลือก Materialize เพราะชอบ Parralax effect และความเกลียด Bootstrap ในตัวเล็กๆที่เกิดจากความใช้ไม่เป็นตอนแรก
 
-![image](https://www.cyruszhang.com/wp-content/uploads/2015/07/image-1024x666.jpg)
+![image](https://www.cyruszh.com/wp-content/uploads/2015/07/image-1024x666.jpg)
 
 การศึกษา HTML ของผมเริ่มจากเว็บ Codeacademy ที่เคยเรียนแบบทิ้งๆขว้างๆไว้. ตอนปิดเทอมที่ผ่านมามีเวลาเลยศึกษาจนจบหลักสูตร ทั้ง HTML และ PHP ส่วน PHP นอกจากเรียนจากเว็บนี้ก็ยืมหนังสือจากห้องสมุด Tkpark บ้างไรบ้าง
 ด้วยความช่วยเหลือจากเพื่อนและพี่ๆหลายคน ตอนนี้ก็เกือบเสร็จแล้ว อาจสัก 95% เว็บนี้เกือบทั้งหมดเขียนด้วย iPad 2 เนื่องจากคอมพัง TT

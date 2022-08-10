@@ -21,8 +21,8 @@ App Store Gift Card มูลค่า 10,000 เหรียญ ----ราง�
 
 ร่วมสนุกง่ายๆโดยการโหลดแอพจาก App Store โหลดไปเรื่อยๆ ถ้าโหลดครั้งที่ห้าหมื่นล้านก็ได้เครดิตใน App Store ไปเลย 10000 เหรียญ เอาไปซื้อแอพซื้ออะไรที่อยากได้ใน App Store ให้หมด แอพอะไรแพงๆก็จัดมาให้หมด แล้วอย่าลืมมาแบ่งผมด้วยละ :D
 
-[![app-store-50billion-download](https://www.cyruszhang.com/wp-content/uploads/2013/05/app-store-50billion-download.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/05/app-store-50billion-download.jpg)
+[![app-store-50billion-download](https://www.cyruszh.com/wp-content/uploads/2013/05/app-store-50billion-download.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/05/app-store-50billion-download.jpg)
 
 
 

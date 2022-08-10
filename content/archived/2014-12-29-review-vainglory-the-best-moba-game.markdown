@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](https://www.cyruszhang.com/wp-content/uploads/2014/12/wpid-Photo-20141229145534942.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/12/wpid-Photo-20141229145534942.jpg)
+[![](https://www.cyruszh.com/wp-content/uploads/2014/12/wpid-Photo-20141229145534942.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/12/wpid-Photo-20141229145534942.jpg)
 
 
 
@@ -36,8 +36,8 @@ VainGlory เป็นเกม MOBA ลักษณะคล้ายๆ LOL �
 
 
 
-[![](https://www.cyruszhang.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535562.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535562.jpg)
+[![](https://www.cyruszh.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535562.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535562.jpg)
 
 
 
@@ -52,8 +52,8 @@ VainGlory เป็นเกม MOBA ลักษณะคล้ายๆ LOL �
 
 
 
-[![](https://www.cyruszhang.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535748.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535748.jpg)
+[![](https://www.cyruszh.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535748.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/12/wpid-Photo-20141229145535748.jpg)
 
 
 

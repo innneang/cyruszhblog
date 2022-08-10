@@ -20,8 +20,8 @@ tags:
 
 การสั่งเป็นเซ็ทได้ราคาถูกกว่า การสั่งเป็นคำอย่างเห็นได้ชัด!!! [ไม่นับพวก Otoro คำละ 480. O_o]
 
-[![sushi masa](https://www.cyruszhang.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-2156.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-2156.jpg)
+[![sushi masa](https://www.cyruszh.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-2156.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-2156.jpg)
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![sushi masa](https://www.cyruszhang.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-215612.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-215612.jpg)
+[![sushi masa](https://www.cyruszh.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-215612.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-215612.jpg)
 
 
 เราสามารถบอกให้เปลี่ยนของที่เราไม่ชอบออกได้ด้วยและที่นี้มีซุป กับน้ำชา Refill พอหมดเดียวเขาจะมาเติมให้เอง
@@ -39,15 +39,15 @@ tags:
 จากการใช้ลิ้นจระเข้ของผมกิน พบว่าปลาต่างๆคุณภาพดีกว่าของ Oishi อย่างเห็นได้ชัด รวมทั้งชิ้นใหญ่กว่าด้วย[มากกก] เทียบกับแซลม่อนจากญี่ปุ่นนับว่าใกล้เคียง~~
 
 
-[![sushi masa](https://www.cyruszhang.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-21541.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-21541.jpg)
+[![sushi masa](https://www.cyruszh.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-21541.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2556/10/wpid-Photo-2-ต.ค.-2556-21541.jpg)
 
 
 
 
 
-[![real sushi](https://www.cyruszhang.com/wp-content/uploads/2556/10/20130420_121437_1-1024x768.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2556/10/20130420_121437_1.jpg)
+[![real sushi](https://www.cyruszh.com/wp-content/uploads/2556/10/20130420_121437_1-1024x768.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2556/10/20130420_121437_1.jpg)
 
 รวมราคาร้าน Sushi Masa ทั้งหมดประมาณพันกว่าบาท [3เซ็ท] สามคนก็ตกประมาณคนละ 300 กว่า ถูกกว่ากิน Oishi หัวละ 500-600กว่ากันเยอะ. เก็บเงินไปกิน Kyoroen ต่อได้
 

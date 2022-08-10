@@ -14,7 +14,7 @@ tags:
 - kuaiyong
 ---
 
-![tongbu-app-download-2014](https://www.cyruszhang.com/wp-content/uploads/2014/06/tongbu-app-download-20141.jpg)
+![tongbu-app-download-2014](https://www.cyruszh.com/wp-content/uploads/2014/06/tongbu-app-download-20141.jpg)
 
 
 วันนี้จะขอมานำเสนอ โปรแกรม Tongbu ของจีน ที่เอาไว้ดาวน์โหลดแอพเสียตังใน Appstore มาแบบฟรีๆ สำหรับเพื่อนๆชาว iOS อาจเคยลองใช้โปรแกรมอันโด่งดังที่มีชื่อว่า Kuaiyong กันอยู่สินะครับ โปรแกรม Tongbu ก็หลักการเดียวการเลย แต่สิ่งที่โปรแกรม Tongbu ดีกว่านั้นคือ ดาวน์โหลดแอพจากเซิฟเวอร์ได้รวดเร็วกว่ามาก และมีแอพในมือถือที่หากคุณต้องการลงแอพอะไรใหม่นั้น ไม่ต้องเปิดคอมเหมือนทางฝั่ง Kuaiyong อีกต่อไปครับ
@@ -33,7 +33,7 @@ tags:
 ## เลือกภาษาอังกฤษ > OK > Next > Install > Finish โล๊ดดดดด
 
 
-เปิดโปรแกรมขึ้นมาจะเจอหน้านี้![tongbu-1-welcome-page](https://www.cyruszhang.com/wp-content/uploads/2014/06/tongbu-1-welcome-page.png)
+เปิดโปรแกรมขึ้นมาจะเจอหน้านี้![tongbu-1-welcome-page](https://www.cyruszh.com/wp-content/uploads/2014/06/tongbu-1-welcome-page.png)
 
 
 จากนั้นเราก็เสียบสายให้เรียบร้อย ใน iPhone ก็อย่าลืมกด Trust this computer ด้วย
@@ -42,14 +42,14 @@ tags:
 
 ต่อไปให้เรากดปุ่ม Genuine App แล้วกด Fix รอจนเสร็จ เท่านี้ก็เรียบร้อยครับ
 
-![tongbu-2-first-page](https://www.cyruszhang.com/wp-content/uploads/2014/06/tongbu-2-first-page.png)
+![tongbu-2-first-page](https://www.cyruszh.com/wp-content/uploads/2014/06/tongbu-2-first-page.png)
 
 
 ไปที่ iPhone เราจะมีแอพแอพนึงที่เป็นภาษาจีนเปิดเข้าไปจะเจอหน้าแบบรูปด้านล่าง ซึ่งก็สามารถดาวน์โหลดแอพที่เสียเงินมาได้แบบฟรีๆเลย :3
 
 ในแอพจะมีแต่ภาษาจีนหากใครไม่เข้าใจสามารถดูได้ตามรูปด้านล่าง
 
-![tongbu-iphone-screenshot-iinnn](https://www.cyruszhang.com/wp-content/uploads/2014/06/tongbu-iphone-screenshot-iinnn.jpg)
+![tongbu-iphone-screenshot-iinnn](https://www.cyruszh.com/wp-content/uploads/2014/06/tongbu-iphone-screenshot-iinnn.jpg)
 
 
 
@@ -68,6 +68,6 @@ tags:
 
 ปัญหาที่ใช้ก็คือบางครั้ง เปิดแอพแล้วแอพเด้ง ไม่ทราบว่าเกิดจากสาเหตุอะไร นานๆเป็นทีนึงก็สามารถแกได้โดยการเสียบคอมแล้วกด Genuine App เหมือนกันครับ
 
-สำหรับใครที่มีคำถามอะไรเพิ่มเติมสามารถสอบถามไว้ที่กล่องคอมเมนท์ Facebook ด้านล่างได้เลยนะครับ หรือใครต้องการแบบเร่งด่วนตอบภายใน 5 ชั่วโมงอะไรแบบนี้ ให้ส่งเมลล์มาได้ที่ in@cyruszhang.com ได้เลย
+สำหรับใครที่มีคำถามอะไรเพิ่มเติมสามารถสอบถามไว้ที่กล่องคอมเมนท์ Facebook ด้านล่างได้เลยนะครับ หรือใครต้องการแบบเร่งด่วนตอบภายใน 5 ชั่วโมงอะไรแบบนี้ ให้ส่งเมลล์มาได้ที่ in@cyruszh.com ได้เลย
 
 อนึ่ง บล็อกนี้เป็นเพียงการรีวิวแอพ Tongbu ซึ่งผมนั้น ไม่ได้มีความตั้งใจที่จะให้ใช้แอพเถื่อนแต่อย่างใดครับ (จริงๆนะ) (เชื่อผมสิ)

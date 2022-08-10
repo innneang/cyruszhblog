@@ -9,18 +9,18 @@ categories:
 - Web-diary
 ---
 
-![digitalocean](https://www.cyruszhang.com/wp-content/uploads/2013/12/digitalocean-1.jpg)
+![digitalocean](https://www.cyruszh.com/wp-content/uploads/2013/12/digitalocean-1.jpg)
 
 
 
 
 ประกาศเป็นหลักไมล์อันดับ สักที่หนึ่ง
 
-ว่าจากเมื่อก่อนที่ใช้ https://www.cyruszhang.com
+ว่าจากเมื่อก่อนที่ใช้ https://www.cyruszh.com
 
 เปลี่ยนเป็น
 
-https://www.cyruszhang.com
+https://www.cyruszh.com
 
 แล้วนะ :3
 
@@ -34,7 +34,7 @@ https://www.cyruszhang.com
 
 พอดีไปเจอคูปอง Godaddy สามารถจดโดเมนได้ในราคา 38 บาทกว่าๆ เลยฉวยโอกาส ถถถ [จากเกือบ 400 แนะ ลดตั้ง 90 กว่าเปอร์เซน]
 
-ส่วนโฮสติ้งตอนนี้ก็ย้ายมาใช้ที่ [DigitalOcean ](https://www.cyruszhang.com/digital-ocean-high-quality-vps/)[อีกแล้ว] เป็น VPS สามารถจัดการอะไรๆได้สะดวกกว่า เนื่องจาก Bangmod Host ที่เก่าส่งบิลเก็บตังมาตอนว่างพอดี [ความผิดโฮสต์ ถถถ] เราเลยไม่ต่ออายุเลย โทษฐานส่งบิลก่อนหนึ่งเดือน เสียอารมณ์
+ส่วนโฮสติ้งตอนนี้ก็ย้ายมาใช้ที่ [DigitalOcean ](https://www.cyruszh.com/digital-ocean-high-quality-vps/)[อีกแล้ว] เป็น VPS สามารถจัดการอะไรๆได้สะดวกกว่า เนื่องจาก Bangmod Host ที่เก่าส่งบิลเก็บตังมาตอนว่างพอดี [ความผิดโฮสต์ ถถถ] เราเลยไม่ต่ออายุเลย โทษฐานส่งบิลก่อนหนึ่งเดือน เสียอารมณ์
 
 เดียวในบล็อกหน้าจะมาเขียนวิธีติดตั้ง Vesta Panel อีกทีละกัน
 

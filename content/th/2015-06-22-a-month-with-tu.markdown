@@ -11,10 +11,10 @@ tags:
 - Traim Udom Suksa School
 ---
 
-![่japan origami](https://www.cyruszhang.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
+![่japan origami](https://www.cyruszh.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
 
 
-หลังจากที่ได้เขียนบล็อกเรื่อง [ติดเตรียมแล้วโว้ย](https://www.cyruszhang.com/finally-i-get-tu/) เมื่อสักประมาณเดือนสองเดือนก่อน ก็ไม่ได้มาเขียนอะไรอีกเลย พอเปิดเทอมแล้วเป็นเซเล็บ อีเว้นเยอะ[ถุย แค่เรียนก็สูบเวลาไปหมดละ]
+หลังจากที่ได้เขียนบล็อกเรื่อง [ติดเตรียมแล้วโว้ย](https://www.cyruszh.com/finally-i-get-tu/) เมื่อสักประมาณเดือนสองเดือนก่อน ก็ไม่ได้มาเขียนอะไรอีกเลย พอเปิดเทอมแล้วเป็นเซเล็บ อีเว้นเยอะ[ถุย แค่เรียนก็สูบเวลาไปหมดละ]
 
 บล็อกนี่เป็นอัพเดตชีวิตตัวเองเหมือนเดิม
 

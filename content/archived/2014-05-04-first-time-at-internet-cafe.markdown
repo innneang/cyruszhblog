@@ -31,5 +31,5 @@ tags:
 
 ร้าน Caution! ตั้งอยู่ที่โรงหนัง Lido ชั้นสอง เดินขึ้นบันไดมาก็น่าจะเห็นแล้ว อย่าเป็นเหมือนผมละไปเดินหาร้านที่ชั้นหนึ่ง Lido ทั้งชาติก็หาไม่เจอ...
 
-[![20140504-144458.jpg](https://www.cyruszhang.com/wp-content/uploads/2014/05/20140504-144458.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/05/20140504-144458.jpg)
+[![20140504-144458.jpg](https://www.cyruszh.com/wp-content/uploads/2014/05/20140504-144458.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/05/20140504-144458.jpg)

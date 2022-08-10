@@ -14,7 +14,7 @@ tags:
 - mobile
 ---
 
-[caption id="attachment_2065" align="alignnone" width="900"]![facebook-messanger-workaround](https://www.cyruszhang.com/wp-content/uploads/2014/08/facebook-messanger-workaround.jpg)
+[caption id="attachment_2065" align="alignnone" width="900"]![facebook-messanger-workaround](https://www.cyruszh.com/wp-content/uploads/2014/08/facebook-messanger-workaround.jpg)
 Image : Mashable[/caption]
 
 
@@ -27,7 +27,7 @@ Facebook เริ่มย้ายฟังก์ชั่นข้อคว�
 
 เมื่อเราพยายามเปิดเมนูข้อความจากแอพ Facebook หลัก ตอนนีจะเห็นข้อความแจ้งเตือนฟังก์ชั่นข้อความได้ย้ายไปที่แอพ Messenger แล้ว พร้อมกับมีปุ่มให้ดาวน์โหลดแอพใหม่จาก App Store, Google Play
 
-![Facebook-Messenger](https://www.cyruszhang.com/wp-content/uploads/2014/08/Facebook-Messenger-1024x919.jpg)
+![Facebook-Messenger](https://www.cyruszh.com/wp-content/uploads/2014/08/Facebook-Messenger-1024x919.jpg)
 
 
 

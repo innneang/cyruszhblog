@@ -12,7 +12,7 @@ tags:
 
 
 ---
-![](https://www.cyruszhang.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
+![](https://www.cyruszh.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
 
 
 
@@ -100,10 +100,10 @@ Bitcoin electricity calculator
 
 
 ## 2015
-- miracle book website [(blog)](https://www.cyruszhang.com/2015/10/miracle-website/)
+- miracle book website [(blog)](https://www.cyruszh.com/2015/10/miracle-website/)
 
 ## 2014
 ...
 
 ## 2013
-- iSky Radio (abandoned) [(blog)](https://cyruszhang.com/2013/05/isky-in-thai/)
+- iSky Radio (abandoned) [(blog)](https://cyruszh.com/2013/05/isky-in-thai/)

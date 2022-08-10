@@ -13,7 +13,7 @@ tags:
 - wordpress
 ---
 
-![jekyll-white-black](https://www.cyruszhang.com/wp-content/uploads/2015/05/jekyll-white-black.png)
+![jekyll-white-black](https://www.cyruszh.com/wp-content/uploads/2015/05/jekyll-white-black.png)
 
 
 วันสองวันมานี้ผมได้ทำการศึกษาเรื่อง Jekyll ซึ่งเป็น Static file generator คือเราเขียนบล็อกเป็นไฟล์ Text แล้ว Jekyll จะแปลงเป็นไฟล์ HTML ให้เรานำไปอัพโหลดบนเซิฟเวอร์ต่อได้
@@ -34,7 +34,7 @@ tags:
 	  * เหมาะแก่การทำเว็บเล็กๆ เช่นเว็บ Doccument หรือบล็อกเปิดใหม่ที่รักความ Geek มากๆ
 	  * ไม่เยอะเหมือน Wordpress [คือ Wordpress มันเยอะ เกินคำว่าบล็อกไปแล้ว]
 	  * การเขียน Theme และส่วนเสริมอื่นๆทำได้ง่าย เพราะใช้ Liquid ในการจัดการ Theme และระบบต่างๆถูกเขียนมาดีอยู่แล้ว [คิดไปคิดมาก็เหมือน Wordpress เลย]
-	  * มี Web server ในตัว ทำให้ไม่จำเป็นต้องลง Appserve, Xampp เพิ่ม สะดวกดี![commandline-jekyll](https://www.cyruszhang.com/wp-content/uploads/2015/05/commandline-jekyll.png)
+	  * มี Web server ในตัว ทำให้ไม่จำเป็นต้องลง Appserve, Xampp เพิ่ม สะดวกดี![commandline-jekyll](https://www.cyruszh.com/wp-content/uploads/2015/05/commandline-jekyll.png)
 
 
 
@@ -46,7 +46,7 @@ tags:
 
 
 	  * แม่งใช้ยากโคตร เพราะโปรแกรม Jekyll ถูกเขียนโดยภาษา Ruby ตอนนำมาใช้ใน Windows เลยต้องพลิกหลายตลบ เพราะไม่ได้ออกแบบมาให้ใช้ใน Windows ผมลองแล้วพลิกหลายรอบแล้ว ยอมแพ้ เลยลง Ubuntu ในโน้ตบุคเพื่อการนี้ [อยากเล่นมาก] \\คนมันไม่มี Mac TT
-	  * community ที่เป็นคนไทย ภาษาไทย หาได้ยากมาก มาก ถึงไม่มีเลย เท่าที่ค้นมีคนไทยเพียงสามคน รวมผมด้วยที่ใช้ Jekyll ในการเขียนบล็อก [สามารถดู Demo Jekyll ของผม ได้ที่ [blog.cyruszhang.com] ](http://blog.cyruszhang.com)
+	  * community ที่เป็นคนไทย ภาษาไทย หาได้ยากมาก มาก ถึงไม่มีเลย เท่าที่ค้นมีคนไทยเพียงสามคน รวมผมด้วยที่ใช้ Jekyll ในการเขียนบล็อก [สามารถดู Demo Jekyll ของผม ได้ที่ [blog.cyruszh.com] ](http://blog.cyruszh.com)
 	  * กว่าจะเขียนเสร็จคือต้องเขียนเป็น Markdown > Build > Upload ถึงสามขั้นตอน ซึ่งหากจะพูดว่าเป็น Static file แล้วดีก็ใช่ แต่ว่าลำบากขนาดนี้ขอใช้ Wordpress ต่อดีกว่า
 	  * หากเขียน Markdown ใน Sublime หรือ Atom แล้วมันไม่รองรับภาษาไทย เพิ่มความยากลำบากแก่การเขียนบล็อกเพิ่มขี้นหลายเท่า อาจจะต้องเขียนใน Texteditor เปล่าๆด้วยตนเอง
 

@@ -24,5 +24,5 @@ tags:
 
 วิทยุนี่เรากำลังโกอินเตอร์ เตรียมตัวรีแบรนใหม่ ดังระดับโลก รอฟังกันได้เลย
 
-[![isky](https://www.cyruszhang.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
+[![isky](https://www.cyruszh.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)

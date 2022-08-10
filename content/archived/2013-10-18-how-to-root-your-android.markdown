@@ -13,8 +13,8 @@ tags:
 - root
 ---
 
-[![super_su_logo](https://www.cyruszhang.com/wp-content/uploads/2013/10/super_su_logo-1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/10/super_su_logo-1.jpg)
+[![super_su_logo](https://www.cyruszh.com/wp-content/uploads/2013/10/super_su_logo-1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/10/super_su_logo-1.jpg)
 
 มีคนถามใน Facebook Comment ข้างใต้หลายคน จนผมขี้เกียจตอบแล้วเพราะมันเยอะมาก ตอบไปบางทีก็ไม่เข้าใจ
 
@@ -50,7 +50,7 @@ tags:
 
 การ Root ทำให้ประกันขาดนะ แต่เราสามารถเอา Root ออกได้ทุกเวลาโดยการต่อคอมแล้วกด Remove Root ครับ
 
-มีปัญหาสามารถคอมเมนท์ข้างล่างได้ครับ หรือถ้าด่วนๆ ส่งเมลล์มาได้ที่ in@cyruszhang.com
+มีปัญหาสามารถคอมเมนท์ข้างล่างได้ครับ หรือถ้าด่วนๆ ส่งเมลล์มาได้ที่ in@cyruszh.com
 
-[![root](https://www.cyruszhang.com/wp-content/uploads/2013/10/root.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/10/root.jpg)
+[![root](https://www.cyruszh.com/wp-content/uploads/2013/10/root.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/10/root.jpg)

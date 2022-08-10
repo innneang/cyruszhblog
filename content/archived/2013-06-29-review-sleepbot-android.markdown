@@ -23,8 +23,8 @@ tags:
 
 มันสามารถตั้ง Smart Alarm เพื่อหาเวลาตื่นที่เราจะสดชื่นที่สุดได้ มันสามารถติดตามการเคลื่อนไหวของเราตอนนอนได้ และมันสามารถบันทึกเสียงของเราตอนนอนได้อีกด้วย
 
-[![sleepbot](https://www.cyruszhang.com/wp-content/uploads/2013/06/sleepbot.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/sleepbot.jpg)
+[![sleepbot](https://www.cyruszh.com/wp-content/uploads/2013/06/sleepbot.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/sleepbot.jpg)
 
 <!-- more -->ตัวแอพจะมีฟังค์ชั่นลูกเล่นอีกเล็กน้อยคือ Help me sleep และ Help me stay awake ก็ไม่มีอะไร จะมีคำแนะนำว่าจะให้หลับทำไง จะให้ตื่นทำไง ซึ่งในความเป็นจริงแล้ว ผมก็โดดขึ้นเตียงยังไม่ทันได้แตะก็หลับแล้ว TT
 

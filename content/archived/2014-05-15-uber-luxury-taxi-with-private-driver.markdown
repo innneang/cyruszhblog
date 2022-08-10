@@ -23,7 +23,7 @@ tags:
 
 เมื่อไม่กี่วันก่อนผมมีโอากาศได้นั่งแท็กซี่ Uber ที่เพิ่งจะมาเปิดตัวใหม่ที่เมืองไทยสดๆร้อนๆ [รูปล่างคือผมเอง #ผิด วู๊ดดี้ต่างหาก]
 
-![uber-woody](https://www.cyruszhang.com/wp-content/uploads/2014/05/uber-woody.jpg)
+![uber-woody](https://www.cyruszh.com/wp-content/uploads/2014/05/uber-woody.jpg)
 
 
 จากรูปข้างบนจะพบว่าตอนขึ้นตอนลงคนขับจะมาเปิดประตูให้เราด้วยนะ :3
@@ -34,7 +34,7 @@ tags:
 
 แท็กซี่ Uber จะไม่เหมือนแท็กซี่ทั่วไปคือ ป้ายเขียวเหมือนแท็กซี่สนามบิน โบกไม่จอดต้องเรียกผ่านแอพ ความหรูหรา ค่าบริการ[ที่แพงกว่า] รถของ Uber นี้ไม่ใช่รถขี้ๆนะครับ เท่าที่รู้ตอนนี้จะมี Mercedes-Benz E-Class หรือ Toyota Camry [เราจะได้ขึ้นรถอะไรแล้วแต่ดวง คุณเพื่อนผมกี่ทีๆก็ได้รถเบนซ์ แต่ผมกี่ทีๆก็ได้แต่ Toyota] คนขับจะใช้ iPad Mini เป็นตัวนำทาง
 
-![uber-df-cam-1](https://www.cyruszhang.com/wp-content/uploads/2014/05/uber-df-cam-1-1024x681.jpg)
+![uber-df-cam-1](https://www.cyruszh.com/wp-content/uploads/2014/05/uber-df-cam-1-1024x681.jpg)
 
 
 ซึ่งอย่างที่จั่วหัวไป **รถ Uber เราเรียกไปไหนก็ต้องไป**ถ้าหากเรียกแล้วไม่ไปจะถือว่าเป็นความผิดคนขับ [เท่าทีถามมา]
@@ -43,7 +43,7 @@ tags:
 
 คนขับที่ผมเจอคนนึงเคยเป็นคนขับ Limousine ของโรงแรม คุยไปคุยมาได้ความว่าตอนนี้คนขับจะได้เงิน x2 เหมือนเป็นโปรโมชั่นเรียกคนมาขับใน Uber เยอะๆ มีเป็นช่วงๆ Uber กำหนดให้ต้องขับ 10 ชั่วโมงต่อวัน สามารถเริ่มทำตอนไหนก็ได้ แต่ต้องทำไป 10 ชั่วโมงเป็นกฏ
 
-![uber-f-1](https://www.cyruszhang.com/wp-content/uploads/2014/05/uber-f-11-769x1024.jpg)
+![uber-f-1](https://www.cyruszh.com/wp-content/uploads/2014/05/uber-f-11-769x1024.jpg)
 
 
 ข้อเสียของระบบ Uber คือเราจะไม่รู้ราคาจนกว่าเราจะลงจากรถ [ฮา] เคยมีฝรั่งเรียกไปพัทยาได้ยินว่าโดนไปหกพันกว่า คนขับนี้ได้เป็นหมื่นเลย [x2] ระบบของ Uber จะไม่มีการใช้เงินสดเป็นอันขาด จะมีการจ่ายเงินโดนตัดผ่านบัตรเครดิตเท่านั้น [ยกเว้นจะทิป ทิปเงินสดได้]
@@ -56,12 +56,12 @@ tags:
 
 [iOS: https://itunes.apple.com/us/app/uber/id368677368?mt=8](https://itunes.apple.com/us/app/uber/id368677368?mt=8)
 
-![uber_1](https://www.cyruszhang.com/wp-content/uploads/2014/05/uber_11.jpg)
+![uber_1](https://www.cyruszh.com/wp-content/uploads/2014/05/uber_11.jpg)
 
 
 จะมีสถานะรายงานเราตลอดว่าหลังจากเราเรียกรถแล้ว รถอยู่ส่วนไหนของโลก รถกำลังมาแล้วนะ ไรแบบนี้ เราสามารถกด Share ไป Facebook ไรงี้ได้ด้วยว่าเรากำลังขึ้นรถคันนี้อยู่นะ
 
-![uber_2](https://www.cyruszhang.com/wp-content/uploads/2014/05/uber_2.jpg)
+![uber_2](https://www.cyruszh.com/wp-content/uploads/2014/05/uber_2.jpg)
 
 
 บอกว่าใช้รถอะไรไปถึงไหนแล้ว พอลงรถก็จะขึ้นค่าเสียหายให้เราเห็น และมีให้คะแนนคนขับด้วย
@@ -70,7 +70,7 @@ tags:
 
 พอลงจากรถก็จะมีใบเสร็จส่งมาบอกค่าเสียหายอีกที มีข้อมูลโดยระเอียดบอกว่านั่งจากไหนไปไหน ความเร็วเฉลี่ยเท่าไร บลาๆ
 
-![uber receipt](https://www.cyruszhang.com/wp-content/uploads/2014/05/uber-receipt-1.jpg)
+![uber receipt](https://www.cyruszh.com/wp-content/uploads/2014/05/uber-receipt-1.jpg)
 
 
 

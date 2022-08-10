@@ -75,5 +75,5 @@ tags:
 
 **โคตรไมโครเวฟจาก Nokia**
 
-![nokia microwave](http://img.cyruszhang.com/images/271_microwave_465.jpg)
+![nokia microwave](http://img.cyruszh.com/images/271_microwave_465.jpg)
 

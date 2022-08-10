@@ -2,7 +2,7 @@
 author: in
 date: 2013-07-30 15:07:58+00:00
 draft: false
-title: cyruszhang.com New Look
+title: cyruszh.com New Look
 type: post
 url: /2013/07/iinnn-net-new-look/
 categories:

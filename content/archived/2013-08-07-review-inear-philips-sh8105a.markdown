@@ -12,8 +12,8 @@ tags:
 - philips
 ---
 
-[![20130807_194833_1](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130807_194833_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130807_194833_1.jpg)
+[![20130807_194833_1](https://www.cyruszh.com/wp-content/uploads/2013/08/20130807_194833_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/08/20130807_194833_1.jpg)
 
 เหตุเกิดเนื่องจากผมทำจุกหูฟังขนาดเล็กหลุดหาย ตอนวิ่งที่โรงเรียน กับต้องการหูฟังไว้ไปใส่ตอนวิ่ง [คำว่า ลากสังขาร อาจจะเหมาะกว่า] ไม่ให้หูฟังหลุด ซึ่งหากเป็น in ear หรือ earbud มันจะหลุดง่ายมาก
 
@@ -21,15 +21,15 @@ tags:
 
 ลักษณะโดยทั่วไป สวย หรู ตรงที่เกี่ยวหูเป็นซิลิโคน ทำให้ไม่บาดหูเหมือนพลาสติก
 
-<!-- more -->[![20130807_194902_1](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130807_194902_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130807_194902_1.jpg)
+<!-- more -->[![20130807_194902_1](https://www.cyruszh.com/wp-content/uploads/2013/08/20130807_194902_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/08/20130807_194902_1.jpg)
 
 
 
 ผมมีอคติกับ Brand จีน และไว้ใจกับญี่ปุ่นที่สุด หลายๆอย่างที่ผลิตในจีนมักพังก่อนเสมอ และในหูฟัง Philips รุ่นนี้ด้วยเหมือนกัน ท่านพ่อของผมก็ไม่ชอบ Brand นี้เท่าไหร่นัก แต่คนขายเขาเชียร์
 
-[![philips-headset-ear-hook](https://www.cyruszhang.com/wp-content/uploads/2013/08/cats.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/08/cats.jpg)
+[![philips-headset-ear-hook](https://www.cyruszh.com/wp-content/uploads/2013/08/cats.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/08/cats.jpg)
 
 มีปุ่ม Control 1 ปุ่ม แต่สามารถประยุกต์ได้ 108 ซึ่งทำอย่างไรนั้นต้องไปปรับในแอพเอาเองครับ ซึ่งผมข้ามตรงนี้ไป เพราะในส่วนแอพ ไม่รู้จะใช้ไปทำไม...
 
@@ -45,8 +45,8 @@ tags:
 
 หูฟังตัวนี้ซื้อได้ที่ Powerbuy ราคาประมาณ 1400 กว่าบาทครับ
 
-[![Philips headset ear-hook](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130807_195059_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130807_195059_1.jpg)
+[![Philips headset ear-hook](https://www.cyruszh.com/wp-content/uploads/2013/08/20130807_195059_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/08/20130807_195059_1.jpg)
 
 เพิ่มเติม: ในส่วนตัวแอพสามารถปรับว่าชอบเสียงแบบไหน เช่น นุ่ม เบสหนัก หรือปรับการ Control ปุ่มต่างๆแบบที่กล่าวไปแล้วก็ย่อมได้ :D
 

@@ -13,7 +13,7 @@ tags:
 - iphone
 ---
 
-คือเดียวนี้เล่นเกม [Vainglory](https://www.cyruszhang.com/2016/01/vainglory-zero-to-hero-ultimate-guide/) บ่อยมาก บางทีก็อยากอัดคลิปหน้าจอไปอวดเพื่อนขำๆ เลยลองค้นวิธีอัดคลิปหน้าจอในกูเกิ้ล เพื่อหาวิธีที่ดีที่สุดดู \\ว่างมาก ฮ่าๆ เท่าที่ผมทำการค้นคว้ารีเสริชแล้วพบว่ามีสองวิธีหลักๆ
+คือเดียวนี้เล่นเกม [Vainglory](https://www.cyruszh.com/2016/01/vainglory-zero-to-hero-ultimate-guide/) บ่อยมาก บางทีก็อยากอัดคลิปหน้าจอไปอวดเพื่อนขำๆ เลยลองค้นวิธีอัดคลิปหน้าจอในกูเกิ้ล เพื่อหาวิธีที่ดีที่สุดดู \\ว่างมาก ฮ่าๆ เท่าที่ผมทำการค้นคว้ารีเสริชแล้วพบว่ามีสองวิธีหลักๆ
 
 <!-- more -->
 
@@ -27,7 +27,7 @@ tags:
 	  1. เสียบสาย iPhone  iPad เข้ากับเครื่อง mac ของท่าน
 	  2. เปิดโปรแกรม Quicktime player ขึ้นมา
 	  3. เลือกบนเมนูด้านบนซ้ายเป็น File > New Movie Recording >  กดเมนูเล็กๆข้างๆปุ่มแดงๆ >  เลือก iPhone ของเรา
-	  4. ![Screenrecording](https://www.cyruszhang.com/wp-content/uploads/2016/01/Screen-Shot-2559-01-14-at-10.00.36-PM-300x125.png)
+	  4. ![Screenrecording](https://www.cyruszh.com/wp-content/uploads/2016/01/Screen-Shot-2559-01-14-at-10.00.36-PM-300x125.png)
 
 	  5. จะปรากฏหน้าจอ iPhone/ iPad ขึ้นมาบนคอมพิวเตอร์ของเรา สามารถกดปุ่มอัดแดงๆได้เลย
 
@@ -43,7 +43,7 @@ tags:
 
 	  1. เปิดเว็บ [emu4ios.net](http://emu4ios.net)  ขึ้นมาบน iPhone/iPad ของเรา
 	  2. กดเลือกแอพ  iRec และกดปุ่ม Get เพื่อดาวน์โหลดแอพลงมาในเครื่องเราให้เรียบร้อย
-	  3. ![FullSizeRender](https://www.cyruszhang.com/wp-content/uploads/2016/01/FullSizeRender-300x228.jpg)
+	  3. ![FullSizeRender](https://www.cyruszh.com/wp-content/uploads/2016/01/FullSizeRender-300x228.jpg)
 
 	  4. เปิดแอพ iRec กด Accept ข้อตกลงต่างๆให้เรียบร้อย
 	  5. ใส่ชื่อไฟล์ที่ต้องการตั้งแล้วกด Start Recording ได้เลย

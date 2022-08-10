@@ -14,7 +14,7 @@ categories:
 
 ดูจบไปอีกเรื่องนึง \\ก่อนหน้านี้จบไปหลายเรื่องแต่ขี้เกียจเขียนลง
 
-จากที่[เขียนไป](https://www.cyruszhang.com/clannad/)เมื่อหลายวันก่อน
+จากที่[เขียนไป](https://www.cyruszh.com/clannad/)เมื่อหลายวันก่อน
 
 เนื้อเรื่องประกอบด้วย 2 ภาคคือ Clannad กับ Clannad After Story ซึ่งเนื้อเรื่องจริงจะเกิดขึ้นที่ภาค After Story ซึ่งคนที่ดู Clannad ภาคแรก อาจจะไม่ซึ้ง เพราะยังไม่ถึงของจริง =="
 
@@ -34,5 +34,5 @@ categories:
 
 เรื่องต่อไป เรียกเธอว่าพระเจ้า Suzumiya Haruhi
 
-![CLANNAD](https://www.cyruszhang.com/wp-content/uploads/2013/07/CLANNAD.jpg)
+![CLANNAD](https://www.cyruszh.com/wp-content/uploads/2013/07/CLANNAD.jpg)
 

@@ -13,8 +13,8 @@ categories:
 
 เว็บพวกนี้เป็นเว็บกดไลค์แลกเหรียญแล้วให้คนอื่นมากดต่อได้ คอนเซ็ปก็ดีเหมือนกัน แต่ว่าพอผมมาคิดแล้วเจ้าของเว็บมีแต่ได้กับได้ หนึ่งคือเขาสามารถรับบริการเพิ่มไลค์ได้ แล้วให้คนที่ไม่รู้ประสีประสากดไป[เอาเหรียญ] โดยที่เจ้าของเว็บไม่ต้องเสียเงิน หรือจะขายเหรียญก็ได้ แต่ข้อดีของเราคือเราได้ไลค์
 
-[![Social networking LIKE](https://www.cyruszhang.com/wp-content/uploads/2013/06/Facebook-Autolike-Script-1024x398.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/06/Facebook-Autolike-Script.jpg)
+[![Social networking LIKE](https://www.cyruszh.com/wp-content/uploads/2013/06/Facebook-Autolike-Script-1024x398.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/06/Facebook-Autolike-Script.jpg)
 
 <!-- more -->
 

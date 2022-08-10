@@ -16,8 +16,8 @@ tags:
 
 วันนี้ผมไปอ่านบทความของเว็บต่างแดน ก็พบวิธีที่เปลี่ยนชื่อเฟสแบบใช้ได้ผลจริง งิงิ
 
-[![facebook-name-change](https://www.cyruszhang.com/wp-content/uploads/2013/09/facebook-name-change.png)
-](https://www.cyruszhang.com/wp-content/uploads/2013/09/facebook-name-change.png)
+[![facebook-name-change](https://www.cyruszh.com/wp-content/uploads/2013/09/facebook-name-change.png)
+](https://www.cyruszh.com/wp-content/uploads/2013/09/facebook-name-change.png)
 
 1.เข้าไปที่เว็บนี้ [https://www.facebook.com/help/contact/245617802141709](https://www.facebook.com/help/contact/245617802141709)
 

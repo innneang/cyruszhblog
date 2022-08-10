@@ -31,7 +31,7 @@ disableHugoGeneratorInject = true
 #   name = "hire"
 #   weight = 10
 #   identifier = "hire"
-#   url = "http://hire.cyruszhang.com/"
+#   url = "http://hire.cyruszh.com/"
 [[menu.main]]
   name = "th"
   weight = 20

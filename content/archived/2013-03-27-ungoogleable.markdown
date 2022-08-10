@@ -13,8 +13,8 @@ tags:
 - ungoogleable
 ---
 
-[![google-doodle](https://www.cyruszhang.com/wp-content/uploads/2013/03/where-do-google-doodles-come-from-ff2932470c.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/where-do-google-doodles-come-from-ff2932470c.jpg)
+[![google-doodle](https://www.cyruszh.com/wp-content/uploads/2013/03/where-do-google-doodles-come-from-ff2932470c.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/where-do-google-doodles-come-from-ff2932470c.jpg)
 
 ในสวีเดนได้มีการใช้คำว่า _Ungoogleable หรือแปลตรงๆแบบแมวๆว่า  ไม่สามารถ  Google ได้เจอ คำว่า Ungoogleable กลายเป็นคำสามัญธรรมดาที่ใช้ในสังคมสวีเดนกันแล้ว!!! [ทำไมผมเพิ่งมารู้นี่]  ทำให้ Google ต้องเสียเงิน เสียเวลา เสียทรัพยากรเพื่อเอาคำนี่ออกไปหลังจากที่มันถูกบัญญัติเข้าพจนานุกรมภาษาสวีดิช (คงเหมือนจุงเบยละมั้ง) เพื่อไม่ให้เสียคำว่า Google ที่เป็นเครื่องหมายการค้าไป นั้นหมายความว่าหากไม่รีบเอาออกจากพจนานุกรมวันหลัง Google อาจจะต้องเปลี่ยนชื่อเป็นอย่างอื่นก็ได้!!!_
 

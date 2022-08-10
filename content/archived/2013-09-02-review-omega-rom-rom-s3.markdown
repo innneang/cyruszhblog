@@ -22,8 +22,8 @@ tags:
 
 ตัว Rom ได้รับการอัพเดตจากทางผู้พัฒนาให้เป็น Android Version ล่าสุด ซึ่งมีของเด็ดๆเพียบ เช่น Widget ที่น่า Lock Screen คือปกติจะมีแค่นาฬิกาอย่างเดียว ตอนนี้เราสามารถควบคุมเพลง อ่านอีเมลล์ผ่านทางหน้า Lock Screen ได้แล้ว #ว้าวววว
 
-[caption id="attachment_1034" align="alignnone" width="772"][![Omega Rom](https://www.cyruszhang.com/wp-content/uploads/1970/01/omegarom.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/1970/01/omegarom.jpg) รูปตัวอย่าง Omega Rom[/caption]
+[caption id="attachment_1034" align="alignnone" width="772"][![Omega Rom](https://www.cyruszh.com/wp-content/uploads/1970/01/omegarom.jpg)
+](https://www.cyruszh.com/wp-content/uploads/1970/01/omegarom.jpg) รูปตัวอย่าง Omega Rom[/caption]
 
 <!-- more -->
 

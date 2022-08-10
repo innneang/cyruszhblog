@@ -32,8 +32,8 @@ tags:
 
 ได้คะแนนจาก Anime Planet ที่ 4.5/5 ซึ่งถือว่าสูงมาก
 
-![angel beats](https://www.cyruszhang.com/wp-content/uploads/2013/01/angel-beats-300x168.png)
-![angel beats](https://www.cyruszhang.com/wp-content/uploads/2013/01/angle-beats-225x300.png)
+![angel beats](https://www.cyruszh.com/wp-content/uploads/2013/01/angel-beats-300x168.png)
+![angel beats](https://www.cyruszh.com/wp-content/uploads/2013/01/angle-beats-225x300.png)
 
 
 เรื่องนี้ผมจะไม่ให้คะแนนเองเพราะจากที่ผมดูตัวเองมาในหลายๆครั้งแล้วเหมือนให้คะแนนไม่ยุติธรรมคือให้เกือบเต็มตลอดเลย แต่ถ้าให้จริงๆจะให้ 9.9 อีก 0.1 คือตอนจบมันมีเรื่องค้างคาใจอยู่อยากรู้ไปดูเอาเอง แต่โดยรวมๆแล้ว<del>โคตร</del>สนุก

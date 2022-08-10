@@ -11,7 +11,7 @@ tags:
 - Year in Review
 ---
 
-![](https://www.cyruszhang.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
+![](https://www.cyruszh.com/wp-content/uploads/2014/03/1000_Cranes_for_Japan_Sans_Text-1-1024x640.jpg)
 
 
 
@@ -20,7 +20,7 @@ tags:
 
 <!-- more -->
 
-หลักๆจะพูดถึงชีวิตตัวเองในช่วงหลังเดือนมีนาคมเป็นส่วนใหญ่ เพราะก่อนหน้านั้นคือ[อ่านหนังสือ](https://www.cyruszhang.com/2018/04/principle-of-lazy-student/) และรอประกาศผลสอบ [[2014](https://www.cyruszhang.com/2014/12/the-2014-year-in-review/), [2015](https://www.cyruszhang.com/2015/12/the-2015-year-in-review/), [2016](https://www.cyruszhang.com/2016/12/the-2016-year-in-review/), [2017](https://www.cyruszhang.com/2018/03/the-2017-year-in-review/)]
+หลักๆจะพูดถึงชีวิตตัวเองในช่วงหลังเดือนมีนาคมเป็นส่วนใหญ่ เพราะก่อนหน้านั้นคือ[อ่านหนังสือ](https://www.cyruszh.com/2018/04/principle-of-lazy-student/) และรอประกาศผลสอบ [[2014](https://www.cyruszh.com/2014/12/the-2014-year-in-review/), [2015](https://www.cyruszh.com/2015/12/the-2015-year-in-review/), [2016](https://www.cyruszh.com/2016/12/the-2016-year-in-review/), [2017](https://www.cyruszh.com/2018/03/the-2017-year-in-review/)]
 
 
 # Big change

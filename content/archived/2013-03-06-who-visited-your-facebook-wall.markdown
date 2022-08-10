@@ -21,20 +21,20 @@ tags:
 
 1.ไปที่หน้า wall Facebook ของเราซะก่อน
 
-[![1](https://www.cyruszhang.com/wp-content/uploads/2013/03/1.png)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/1.png)
+[![1](https://www.cyruszh.com/wp-content/uploads/2013/03/1.png)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/1.png)
 
 
 
 2.พอถึงจุดหมายที่หน้า Wall แล้ว ให้ทำการคลิกขวาเลือก "ดูรหัสต้นฉบับ" หรือ "View Page Source" จะแตกต่างตามภาษาที่ตั้งค่าเอาไว้ ในที่นี้เป็นภาษาอังกฤษ
 
-[![2](https://www.cyruszhang.com/wp-content/uploads/2013/03/2.png)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/2.png)
+[![2](https://www.cyruszh.com/wp-content/uploads/2013/03/2.png)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/2.png)
 
 
 
-3.พอกดเข้าไปแล้ว บางคนอาจจะงง นี้มันอะไรกันเนี้ย อย่างเพิ่งตกใจไปนะครับ ให้ทำการกด "Ctrl + F" ที่คีย์บอร์ดเพื่อเป็นการค้นหาครับ แล้วพิมพ์  " {"list" " ลงไปจะเจอที่เหมือนตัวเลขเรียงกันอยู่[![3](https://www.cyruszhang.com/wp-content/uploads/2013/03/3-1024x185.png)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/3.png)
+3.พอกดเข้าไปแล้ว บางคนอาจจะงง นี้มันอะไรกันเนี้ย อย่างเพิ่งตกใจไปนะครับ ให้ทำการกด "Ctrl + F" ที่คีย์บอร์ดเพื่อเป็นการค้นหาครับ แล้วพิมพ์  " {"list" " ลงไปจะเจอที่เหมือนตัวเลขเรียงกันอยู่[![3](https://www.cyruszh.com/wp-content/uploads/2013/03/3-1024x185.png)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/3.png)
 
 4.คนที่เข้ามาส่องเฟสเรามากที่สุดจะเรียงจากบนสุด ไล่ลงไปเรื่อยๆ จากซ้ายไปขวาเหมือนการอ่านหนังสือภาษาไทย โดยเราสามารถรู้ได้ว่าเขาเป็นใคร โดยการนำเลขที่อยู่ในเครื่องหมายคำพูด "123456789" ไปใส่ข้างหลังคำว่า Faecbook.com เช่นเราอยากรู้ว่า "12343" นั้นคือใครให้เราพิมพ์ http://www.facebook.com/12343 มันจะพาเราไปหน้า Wall ของคนๆนั้นครับ
 

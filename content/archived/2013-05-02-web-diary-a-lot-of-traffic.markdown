@@ -25,7 +25,7 @@ tags:
 
 แต่เดี๋ยวมันก็คงแค่นาทีทองเพียงวันเดียว ถ้าผมเอาโฆษณามาติดน๊าาาา ... วันนี้ก็เริ่มค่อยๆลดแล้ว เดียวคงจะกลับไปอยู่ในสภาวะปกติ :(
 
-[![stat](https://www.cyruszhang.com/wp-content/uploads/2013/05/stat.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/05/stat.jpg)
+[![stat](https://www.cyruszh.com/wp-content/uploads/2013/05/stat.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/05/stat.jpg)
 
 

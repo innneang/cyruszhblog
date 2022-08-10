@@ -16,7 +16,7 @@ tags:
 
 <!-- more -->
 
-[ของปีก่อน [Birthday Resolution 2014](https://www.cyruszhang.com/birthday-resolution-2014/), [The 2014 Year in Review](https://www.cyruszhang.com/the-2014-year-in-review/)]
+[ของปีก่อน [Birthday Resolution 2014](https://www.cyruszh.com/birthday-resolution-2014/), [The 2014 Year in Review](https://www.cyruszh.com/the-2014-year-in-review/)]
 
 
 ## 1.อ่านหนังสือ
@@ -34,7 +34,7 @@ tags:
 ## 3.เว็บใหม่
 
 
-ข้อนี้ถือว่าเป็นข้อเสริม ถ้าทำไม่ได้ก็ไม่ได้เดือดเนื้อร้อนใจอะไร คือตอนปิดเทอมนี่ผมว่างมาก ว่างแบบวันๆไม่มีไรทำ ตื่นสิบโมง นอนอืดนั่งเล่น [Vainglory](https://www.cyruszhang.com/review-vainglory-the-best-moba-game/) บนเตียงถึงเที่ยง ลงไปกินข้าว แล้วขึ้นมานอนอืดนั่งเล่น [Vainglory](https://www.cyruszhang.com/review-vainglory-the-best-moba-game/) ต่อถึงเย็น ผมเลยต้องหาอะไรให้ตัวเองทำซะหน่อยด้วยการสร้างเว็บใหม่ให้ตัวเองต้องพยายามแปลบทความจากเว็บต่างประเทศลงเว็บตัวเอง ซึ่ง ณ เวลาที่เขียนอยู่นี่ทำไปได้แค่อันเดียวเอง .... ส่วนเว็บชื่ออะไร ยังไม่บอกนะ ถถถ
+ข้อนี้ถือว่าเป็นข้อเสริม ถ้าทำไม่ได้ก็ไม่ได้เดือดเนื้อร้อนใจอะไร คือตอนปิดเทอมนี่ผมว่างมาก ว่างแบบวันๆไม่มีไรทำ ตื่นสิบโมง นอนอืดนั่งเล่น [Vainglory](https://www.cyruszh.com/review-vainglory-the-best-moba-game/) บนเตียงถึงเที่ยง ลงไปกินข้าว แล้วขึ้นมานอนอืดนั่งเล่น [Vainglory](https://www.cyruszh.com/review-vainglory-the-best-moba-game/) ต่อถึงเย็น ผมเลยต้องหาอะไรให้ตัวเองทำซะหน่อยด้วยการสร้างเว็บใหม่ให้ตัวเองต้องพยายามแปลบทความจากเว็บต่างประเทศลงเว็บตัวเอง ซึ่ง ณ เวลาที่เขียนอยู่นี่ทำไปได้แค่อันเดียวเอง .... ส่วนเว็บชื่ออะไร ยังไม่บอกนะ ถถถ
 
 หมด
 

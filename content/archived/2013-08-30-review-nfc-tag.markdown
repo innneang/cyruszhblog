@@ -26,8 +26,8 @@ NFC tag ข้างในจะมีชิปเล็กๆ อยู่ไ�
 
 โดยเราต้องไปโหลดแอพ[ NFC Task launcher ](https://play.google.com/store/apps/details?id=com.jwsoft.nfcactionlauncher&hl=th)จาก Play Store มาก่อน ผมจะไม่พูดถึงในส่วนแอพ ลองใช้กันเอาเอง
 
-[caption id="attachment_1239" align="alignnone" width="668"][![nfctag](https://www.cyruszhang.com/wp-content/uploads/2013/08/nfctag.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/08/nfctag.jpg) รูปสดแบบไม่จัดแต่งใดๆ[/caption]
+[caption id="attachment_1239" align="alignnone" width="668"][![nfctag](https://www.cyruszh.com/wp-content/uploads/2013/08/nfctag.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/08/nfctag.jpg) รูปสดแบบไม่จัดแต่งใดๆ[/caption]
 
 ของผมตั้งไว้ประมาณนี้
 

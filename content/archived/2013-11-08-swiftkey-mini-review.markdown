@@ -21,15 +21,15 @@ Swiftkey เป็นคีย์บอร์ดที่อยู่ใน Andr
 
 จากการอัพเดตใหม่เลยทำให้เราสามารถเปลี่ยนน Layout เป็นแบบ Full, Thumb, Compact เพื่อใช้ในการพิมพ์ในสถานะการต่างๆ เช่น Thumb จะเป็นการใช้นิ้วโป้งสองมือพิมพ์ๆ ถ้าเป็น Compact ก็จะเหมาะกับการลากนิ้วแบบมือเดียว และสามารถ Undock keyboard ได้อีกด้วย
 
-[![swift2](https://www.cyruszhang.com/wp-content/uploads/2013/11/swift2.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/11/swift2.jpg)
+[![swift2](https://www.cyruszh.com/wp-content/uploads/2013/11/swift2.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/11/swift2.jpg)
 
 ในตัวแอพตอนก่อนใช้เราจะต้องไปดาวน์โหลด Dictionary มาก่อน ซึ่งเป็นหัวใจหลักที่ช่วยให้มันเดาคำได้อย่างมีประสิทธิภาพ <<อันนี้คงไม่ต้องอธิบายอะไร
 
 สามารถเปลี่ยน Theme ได้ด้วย มี Theme เยอะแยะให้เลือก และ Theme ใหม่ๆก็จะมาอีกเยอะๆในอัพเดตครั้งต่อๆไปด้วย อย่างในรูปด้านล่างเป็น Theme Halo
 
-[![swift3](https://www.cyruszhang.com/wp-content/uploads/2013/11/swift3.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/11/swift3.jpg)
+[![swift3](https://www.cyruszh.com/wp-content/uploads/2013/11/swift3.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/11/swift3.jpg)
 
 หากคำไหนที่มันเดาแย่ ขัดต่อการพิมพ์ของเราก็สามารถลบออกจาก Dictionary ได้ด้วย :D แน่นอนว่ามันเรียนรู้กลับเข้าไปใหม่ได้เช่นกันครับ
 

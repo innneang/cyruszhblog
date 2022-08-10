@@ -11,7 +11,7 @@ tags:
 - vainglory
 ---
 
-บอกก่อนเลยผมนี่ติดเกม เกม [Vainglory](https://www.cyruszhang.com/2014/12/review-vainglory-the-best-moba-game/) นี่และ เล่นทุกวัน วันละหลายตา หลายชั่วโมง  แต่ไม่ค่อยเห็นบทความแนะนำเป็นภาษาไทยเท่าไร  เลยคิดว่าหากเขียนไว้แล้วมีคนต้องการอ่านคงจะดีมิใช่น้อย
+บอกก่อนเลยผมนี่ติดเกม เกม [Vainglory](https://www.cyruszh.com/2014/12/review-vainglory-the-best-moba-game/) นี่และ เล่นทุกวัน วันละหลายตา หลายชั่วโมง  แต่ไม่ค่อยเห็นบทความแนะนำเป็นภาษาไทยเท่าไร  เลยคิดว่าหากเขียนไว้แล้วมีคนต้องการอ่านคงจะดีมิใช่น้อย
 
 <!-- more -->
 
@@ -22,7 +22,7 @@ tags:
 
 
 
-	  1. ขอแนะนำให้รู้จักไอเทม  Ironguard Contract![ironguard-contract](https://www.cyruszhang.com/wp-content/uploads/2016/01/ironguard-contract.png)
+	  1. ขอแนะนำให้รู้จักไอเทม  Ironguard Contract![ironguard-contract](https://www.cyruszh.com/wp-content/uploads/2016/01/ironguard-contract.png)
    สำหรับมือใหม่ส่วนใหญ่จะชอบคิดว่าเราต้องหาเงินให้ได้เยอะๆเลยทำการ Last hit มอนสเตอร์ต่างๆให้หมด หารู้ไม่ว่าทำแบบนั้นเป็นการส่งผลเสียกับทีมมาก เพราะเงินในเกมนั้น  100-200  ก็ส่งผลต่อเกมทั้งเกมได้เลย ไอเทมนี้หากซื้อแล้วหากเราให้เพื่อน Last Hit มอนสเตอร์ เงินที่ Drop จากมอนสเตอร์จะถูกแบ่ง เป็น 30%  กับ 60%  เราจะได้ 60% นั้นส่วนเพื่อนที่ Last Hit จะได้เงินรวมเป็น 130% จากเงินที่ Drop ปกติ  item นี่แนะนำให้สายซัพพอร์ทเช่น Ardan Catharine Phinn เป็นคนซื้อเพราะส่วนใหญ่สายซัพพอร์ทไม่จำเป็นต้องใช้เงินเยอะเท่าพวกมนุษย์ Carry ที่ทำ Dammage ให้แก่ทีม
 	  2. อย่าหยุดเดิน เวลาแค่ 5  วินาทีก็มีค่า แมพใหญ่ เดินช้า หันไปมองเพื่อนข้างๆซักแปป รับสายโทรศัพท์สักแปปก็มีผลมาก 5 วินาทีนี่เราสามารถทำลายป้อมหรือโดนทำลายป้อม Last Hit Kraken เป็นผลให้พลิกเกมได้เลย
 	  3. อย่า AFK กรุณาอย่าแบบอีกสิบนาทีครูจะเข้าขอเล่นสักแปป นอกจากคุณจะทำทีมตอนนั้นแพ้แล้ว  คุณจะถูกนำไปจัดไว้ในกลุ่มเดียวกับคน AFK ทำให้หาแมทซ์ใช้เวลามากขึ้นและแมทซ์ที่คุณจะเล่นก็จะเป็นกลุ่มคนที่ AFK บ่อยๆแบบคุณครับ [AFK หรือ Away From  Keyboard  แปลว่าออกจากเกมกลางคัน]
@@ -38,22 +38,22 @@ tags:
 
 ในช่วงนี้จะเขียนวิธีสู้กับ Hero ต่างๆ  เอาเป็นหลักๆว่าพวก Carry เลือดต่ำ Damage แรงควรจัดการให้ตายก่อนอันดับแรก ต่อมาก็พวก Assasin  อาทิ Taka Koshka ต่อมา และพวกสาย Tank Support ไว้ทีหลังครับ
 
-![krul vainglory](https://www.cyruszhang.com/wp-content/uploads/2016/01/static.squarespace.jpg)
+![krul vainglory](https://www.cyruszh.com/wp-content/uploads/2016/01/static.squarespace.jpg)
 
 
-1.มาเริ่มกันที่ตัวแรกครับ  Krul ตัวนี้เป็นตัวละครที่ต่อกรได้ยากเพราะเป็นพวกชอบดูดเลือด จุดมุ่งหมายของการออกแบบตัวละครนี้คือตายยากเมื่อสู้ 1-1 ชนะแน่นอนถ้าเป็นการต่อสู้ที่ยาวนาน เพราะ Stack ดูดเลือดยิ่งเพิ่มเยอะ  item  หลักที่คนชอบซื้อกันตอนเล่น Krul คือ Tornado Trigger ![tornado-trigger](https://www.cyruszhang.com/wp-content/uploads/2016/01/tornado-trigger.png)
- เพื่อให้ Stack ของการดูดเลือดเพิ่มมากขึ้นดูดเร็วได้เร็วขึ้น เพื่อต่อกรกับ Tornado Trigger ควรใช้![atlas-pauldron](https://www.cyruszhang.com/wp-content/uploads/2016/01/atlas-pauldron.png)
- เพื่อลด Attack Speed ลงครับ และเพื่อป้องกัน Skill ดูดเลือดของ Krul สามารถใช้ Aegis![aegis](https://www.cyruszhang.com/wp-content/uploads/2016/01/aegis.png)
-หรือ ReflexBlock ![reflex-block](https://www.cyruszhang.com/wp-content/uploads/2016/01/reflex-block.png)
+1.มาเริ่มกันที่ตัวแรกครับ  Krul ตัวนี้เป็นตัวละครที่ต่อกรได้ยากเพราะเป็นพวกชอบดูดเลือด จุดมุ่งหมายของการออกแบบตัวละครนี้คือตายยากเมื่อสู้ 1-1 ชนะแน่นอนถ้าเป็นการต่อสู้ที่ยาวนาน เพราะ Stack ดูดเลือดยิ่งเพิ่มเยอะ  item  หลักที่คนชอบซื้อกันตอนเล่น Krul คือ Tornado Trigger ![tornado-trigger](https://www.cyruszh.com/wp-content/uploads/2016/01/tornado-trigger.png)
+ เพื่อให้ Stack ของการดูดเลือดเพิ่มมากขึ้นดูดเร็วได้เร็วขึ้น เพื่อต่อกรกับ Tornado Trigger ควรใช้![atlas-pauldron](https://www.cyruszh.com/wp-content/uploads/2016/01/atlas-pauldron.png)
+ เพื่อลด Attack Speed ลงครับ และเพื่อป้องกัน Skill ดูดเลือดของ Krul สามารถใช้ Aegis![aegis](https://www.cyruszh.com/wp-content/uploads/2016/01/aegis.png)
+หรือ ReflexBlock ![reflex-block](https://www.cyruszh.com/wp-content/uploads/2016/01/reflex-block.png)
 ได้ครับ ซึ่งจะกดตอนไหนก็แล้วแต่ดวงของท่าน ฮ่าๆ  แต่ที่สำคัญ Hero ตัวนี้ยังไงเราก็ไม่ควรสู้กับ Krul 1-1 อยู่ดีครับหากไม่ใช่สาย Assasin  แบบ taka หรือ koshka  และที่สำคัญ Krul ในช่วงแรกของเกมนั้นจะอ่อนมาก ควรรีบจัดการตัวนี้ช่วงต้นเกมก่อนเพราะในช่วงท้ายเกมตัวนี้เป็นตัวละครที่ยากที่จะต่อกรมาก มาก ที่สุดย้ำอีกครั้ง
 
-![saw](https://www.cyruszhang.com/wp-content/uploads/2016/01/saw.jpg)
+![saw](https://www.cyruszh.com/wp-content/uploads/2016/01/saw.jpg)
 
 
-2. Saw เป็น Hero ที่เล่นที่เลนส์ได้ดีมากในช่วงต้นเกม  สกิลที่สำคัญของ Supppressing Fire  ![suppressing-fire](https://www.cyruszhang.com/wp-content/uploads/2016/01/suppressing-fire-1.jpg)
+2. Saw เป็น Hero ที่เล่นที่เลนส์ได้ดีมากในช่วงต้นเกม  สกิลที่สำคัญของ Supppressing Fire  ![suppressing-fire](https://www.cyruszh.com/wp-content/uploads/2016/01/suppressing-fire-1.jpg)
   โดย Sawจะทำการรัวกระสุนไปในทางเดียว ซึ่งใครที่อยู่ในห่ากระสุนนั้นจะติด Slow และโดน Damage ครับ ซึ่งหลังจาก Saw ใช้ Suppressing Fire แล้วจะทำให้ Saw ยิ่งรัวมากๆ ซึ่งตรงนี้เป็นอะไรที่น่ากลัวมากครับ  หลังจาก Saw ยิงรัวแล้วส่วนใหญ่ก็จะตามมาด้วย Mad Cannon ที่ทำแดมเมจเยอะพอควร  ควรจะต่อกร Saw ขณะที่กำลังยิ่ง Suppresing Fire เพราะขณะนั้นจะขยับไม่ได้ครับ ข้อเสียข้อนึงของ Saw  คือเดินช้ามาก ต้องใช้ให้เป็นประโยชน์ครับ
 
-3. Ringo Skaarf Adagio Celeste  สกิล Ultimate แรงมาก หากคนเล่นเก่งจะเก่งมาก ควรซื้อไอเทม Reflex Block ![reflex-block](https://www.cyruszhang.com/wp-content/uploads/2016/01/reflex-block.png)
+3. Ringo Skaarf Adagio Celeste  สกิล Ultimate แรงมาก หากคนเล่นเก่งจะเก่งมาก ควรซื้อไอเทม Reflex Block ![reflex-block](https://www.cyruszh.com/wp-content/uploads/2016/01/reflex-block.png)
  ไว้ใช้ซึ่งที่ยากก็คือ ต้องกดให้ทันครับ  เพราะ Reflex Block เวลาการทำงานมันสั้นมาก
 
 

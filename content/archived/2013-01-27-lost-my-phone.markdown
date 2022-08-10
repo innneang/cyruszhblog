@@ -17,8 +17,8 @@ tags:
 
 1.เปิดการใช้ iCloud ตั้งค่า Find my iPhone ข้อนี้เหมือนหลายๆคนจะรู้อยู่แล้ว แต่ว่าตาที่บอกไปข้างบนว่าโจรสมัยนี้ฉลาด ได้ปุ๊ปปิดเครืองปั๊ป แต่ตั้งไว้ก่อนจะดีที่สุด เพื่อเราเอาไปลืมไว้ที่ไหนจะได้รู้
 
-[![find my iphone](https://www.cyruszhang.com/wp-content/uploads/2013/01/27-1-2556-20-57-00-1-1024x555.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/01/27-1-2556-20-57-00-1.jpg)
+[![find my iphone](https://www.cyruszh.com/wp-content/uploads/2013/01/27-1-2556-20-57-00-1-1024x555.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/01/27-1-2556-20-57-00-1.jpg)
 2.เปิดใช้โหมด restrection  เพื่อล็อกไม่ให้เกิดการแก้ไขชื่อผู้ใช้ iCloud เมื่อเราตั้งค่าที่โหมดนี้แล้วจะทำให้ปุ่ม iCloud ใน Settings โดนล็อกกดไม่ได้เลย ก็ช่วยป้องกันมาได้อีกระดับนึง แต่ถ้าโดนปิดเครื่องต่อ itunes ก็หมดหวังแล้วที่จะได้คืนละครับ
 
 Settings > General > Restrictions >  กด Enable  Restriction แล้วใส่รหัส 4 ตัวเลื่อนลงมาจะเห็น Location, Account กดเข้าไปเลือก On แล้วติ๊กถูกที่ Don’t Allow Changes

@@ -12,7 +12,7 @@ tags:
 - วลี
 ---
 
-![คาวบอย](https://www.cyruszhang.com/wp-content/uploads/2013/03/883144_498746193515514_953519753_o.jpg)
+![คาวบอย](https://www.cyruszh.com/wp-content/uploads/2013/03/883144_498746193515514_953519753_o.jpg)
 
 
 

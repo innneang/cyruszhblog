@@ -17,7 +17,7 @@ tags:
 
 
 
-![DSC_0006](https://www.cyruszhang.com/wp-content/uploads/2014/06/DSC_00061-1024x682.jpg)
+![DSC_0006](https://www.cyruszh.com/wp-content/uploads/2014/06/DSC_00061-1024x682.jpg)
 
 
 ช่วงนี้เกมนี้กำลังฮิต ผมเองได้เล่นเกมนี้มาได้ช่วงนึงแล้วเลิกเล่นไปแล้ว [อ้าว] และกลับมาเล่นใหม่อีกที [เอ๊ะ] คือตอนนี้ไปไหนก็เห็นแต่คนเล่นเกมนี้ ไม่คิดว่ามันจะดังขนาดนี้
@@ -30,14 +30,14 @@ tags:
 
 เกมนี้กฏธรรมดามาก แต่เล่นยากพอตัว ผมได้ทำวิธีเล่นไว้ให้แล้ว
 
-![2048_howtoplay](https://www.cyruszhang.com/wp-content/uploads/2014/06/2048_howtoplay.jpg)
+![2048_howtoplay](https://www.cyruszh.com/wp-content/uploads/2014/06/2048_howtoplay.jpg)
 
 
 การชนะของเกมนี้ก็คือการทำอย่างไรก็ได้ให้กลายเป็นเลข 2048 ตามชื่อเกม [ซึ่งมันก็ดูเป็นไปไม่ได้....] แต่ก็ทำได้
 
 เทคนิค 7 วิธีที่จะชนะเกมนี้ คือ ...
 
-![2048_from_pantip](https://www.cyruszhang.com/wp-content/uploads/2014/06/2048_from_pantip.jpg)
+![2048_from_pantip](https://www.cyruszh.com/wp-content/uploads/2014/06/2048_from_pantip.jpg)
 
 
 

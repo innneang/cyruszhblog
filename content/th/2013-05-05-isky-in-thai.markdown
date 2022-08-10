@@ -14,9 +14,9 @@ tags:
 
 ตอนนี้ผมเปิดเว็บ iSky.in.th จากเดิมที่เป็นเว็บของรุ่นพี่คนนึงแต่เกิดเหตุไม่ขาดฝันทำให้มันเปลี่ยนมือเจ้าของแล้ว แหะๆ :P [ไม่อยากให้พูดว่าเจ้าของ พูดว่าหุ้นส่วนดีกว่า :D]
 
-[![isky](https://www.cyruszhang.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
+[![isky](https://www.cyruszh.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
 
-](https://www.cyruszhang.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/05/5-5-2556-17-54-41.jpg)
 
 <!-- more -->
 

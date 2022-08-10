@@ -19,8 +19,8 @@ tags:
 
 ประมาณวันแรกๆ[ไม่รู้วันไหน] ก็ต้องไปซื้อ Internet Sim เพื่อเล่นในญี่ปุ่นกันก่อนเลือกไปซื้อที่ Yodobashi Camera ในย่าน Akiba ซึ่งญี่ปุ่นนี้ขึ้นชื่อว่าซื้อซิมกับโทรศัพท์ยากมากกก เพราะต้องเป็นคนญี่ปุ่นจริงๆ ไปก็เป็นชาวต่างชาติที่อาศัยในญี่ปุ่นเกิน 6 เดือน หรือถ้าเป็นนักท่องเที่ยวจะสามารถซื้อซิมแบบนักท่องเที่ยวได้คือเป็นเน็ตอย่างเดียวซื้อแล้วใช้ได้เลยไม่ต้องเป็นคนญี่ปุ่นก็ได้ < เจอของ bmobile แต่ไปมันบอกเลิกขายไปแล้ว เลยไปซื้อแบบซิมคนญี่ปุ่นพนักงานบอกให้พนักงานโรงแรมทำให้ ==" แต่เอาเข้าจริงเขาไม่ยอมทำบอกให้ไปใช้โทรศัพท์สาธารณะแทน เลยให้เพื่อนพี่ที่เรียนญี่ปุ่นทำให้ บอกว่าทำง่ายมากเป็นระบบอัตโนมัติ แต่ทุกอย่างเป็นภาษาญี่ปุ่นหมดนะ คือถ้าไม่เรียนญี่ปุ่นจริงคือฟังไม่รู้เรื่องแน่ๆ
 
-[![Sakura](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130416_133618_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130416_133618_1.jpg)
+[![Sakura](https://www.cyruszh.com/wp-content/uploads/2013/04/20130416_133618_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/04/20130416_133618_1.jpg)
 
 
 
@@ -35,8 +35,8 @@ tags:
 	  * ไปประสาท Osaka [อันนี้ก่อน Activate Sim] เดินถามทางไปเรื่อยๆแบบ nonet คนที่นั้นส่วนใหญ่จะไม่รู้ทาง คือเดินตามทางตัวเองเท่านั้น ไปที่นั้นทุกวันก็จำไว้ๆ ทางอื่นขนาด landmark แบบฮิเมจินี้ยังไม่รู้เลยทั้งๆที่ห่างจากตรงนั้นไม่ถึงกิโล
 	  * ต่อมาไปวัดโทไดจิ ข้างในก็มีกวาง กวาง กวาง กวาง กวางขำหัก กวางขี้ ขี้กวาง แล้วก็พระ จุดธูป ไหว้ ขอพร ถ่ายรูป ละก็ออกมา
 
-[![Fushimi Inari-taisha](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130416_183825_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130416_183825_1.jpg)
+[![Fushimi Inari-taisha](https://www.cyruszh.com/wp-content/uploads/2013/04/20130416_183825_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/04/20130416_183825_1.jpg)
 
 ต่อมาวันที่ 2
 
@@ -47,8 +47,8 @@ tags:
 	  * ไปต่อด้วยวัดน้ำใส วันนี้ไปเดินเล่น มีส่วนนึงปิดซ่อมบำรุงเราเข้าไปไม่ได้ วัดนี้ไปตามชื่อ คือเราไปกินน้ำ 3 สาย ถ่ายรูปตามระเบียบแล้วก็ออกมา
 	  * ต่อมาไปเสาแดง Fushimi Inari Taisha เป็นทางเดินเสานับพันๆต้น ระยะประมาณ 4 กิโล อันนี้ไม่ได้เดินสุดเพราะดึกแล้ว + กลัวผีญี่ปุ่น
 
-[![temple](https://www.cyruszhang.com/wp-content/uploads/2013/04/temple-1024x389.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/04/temple.jpg)
+[![temple](https://www.cyruszh.com/wp-content/uploads/2013/04/temple-1024x389.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/04/temple.jpg)
 
 มาวันที่ 3 แล้ว
 
@@ -58,8 +58,8 @@ tags:
 	  * ไปวัด Ryoan-Ji (อ่านว่า เรียวอันจิ) อันนี้ข้างในจะเป็นปริศนาหิน มีหินตั้งๆอยู่ก็ไปถ่ายรูปกัน [ทีแรกคุณพี่ตั้งเป้าหมายไว้ว่าถ้าแก้ปริศนาหินไม่ได้จะไม่กลับไทย]
 	  * ไปกินปู อาหาร โค ตา ระ แพงของที่นั้น ที่ถือว่าเป็นอาหารระดับแรร์ ตั้งแต่มาเลยก็เป็นได้ แถวๆ Dotonbori ใครไม่รู้จักมันคือที่ตั้งของ Mascot Glico นักวิ่ง
 
-[![Fujisan](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130418_1228390_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130418_1228390_1.jpg)
+[![Fujisan](https://www.cyruszh.com/wp-content/uploads/2013/04/20130418_1228390_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/04/20130418_1228390_1.jpg)
 
 
 
@@ -74,8 +74,8 @@ tags:
 
 	  * ไป Tokyo Disneyland เล่น เล่น เล่น แล้วก็กลับ
 
-[![Great Budha](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130420_1624330_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130420_1624330_1.jpg)
+[![Great Budha](https://www.cyruszh.com/wp-content/uploads/2013/04/20130420_1624330_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/04/20130420_1624330_1.jpg)
 
 
 
@@ -91,8 +91,8 @@ tags:
 	  * เวลาผ่านไปเร็วเหมือนโกหก ไปย่าน Akiba ซื้อแบตเตอร์รี่สำรอง รุ่น Panasonic < จะถูกกว่าไทยราวๆพันบาท กับนาฬิกาใหม่
 	  * ไป Kiddyland = ไม่มีไรเลย ซื้อของฝากท่านพี่
 
-[![Ropeway @Hakone japan](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130422_141833_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/04/20130422_141833_1.jpg)
+[![Ropeway @Hakone japan](https://www.cyruszh.com/wp-content/uploads/2013/04/20130422_141833_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/04/20130422_141833_1.jpg)
 
 
 

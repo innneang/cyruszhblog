@@ -29,8 +29,8 @@ tags:
 
 แต่ไม่ได้เอาเนื้อหาย้ายมาด้วย เพราะรู้สึกว่ามันดูปัญญาอ่อน แต่ผมก็ยังชอบอยู่ดี :D
 
-[![mypencilbox1](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130815_200040_1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/08/20130815_200040_1.jpg)
+[![mypencilbox1](https://www.cyruszh.com/wp-content/uploads/2013/08/20130815_200040_1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/08/20130815_200040_1.jpg)
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 อุปกรณ์ในกล่องดินสองผม
 
-1.[ปากกา Frixion 3 หัว](https://www.cyruszhang.com/review-frixion-pen-by-pilot/) หาซื้อได้ที่ Moshi หรือร้านสมใจ
+1.[ปากกา Frixion 3 หัว](https://www.cyruszh.com/review-frixion-pen-by-pilot/) หาซื้อได้ที่ Moshi หรือร้านสมใจ
 
 2.ปากกาไฮไลต์ Frixion สีเหลืองสดใส หาซื้อได้ที่ Isetan [ผมซื้อมาจากสาขา Central World]
 

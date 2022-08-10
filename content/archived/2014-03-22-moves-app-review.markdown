@@ -17,12 +17,12 @@ tags:
 - review moves
 ---
 
-ด้วยความที่ว่า[ต้องการให้ชีวิต Simple](https://www.cyruszhang.com/simplify-my-life/) จึงโหลดแอพนี้มาแทน Endomondo, กับ Nike Move คือเปิดไว้ ตอนจะวิ่งหรือทำอะไรก็ไม่ต้องมานั่งเปิดแอพ เดียวมันจัดการเอง ไม่ว่าจะนับก้าว หรือหาแคลลอลี่ ง่ายมั่กๆ ไม่ต้องนั่งกดหยุดกดเริ่ม บางแอพมีปัญหาแอพ ForceClose ที่วิ่งๆตั้งนานหายในทันใด TT [ประสบการณ์อันเลวร้าย]
+ด้วยความที่ว่า[ต้องการให้ชีวิต Simple](https://www.cyruszh.com/simplify-my-life/) จึงโหลดแอพนี้มาแทน Endomondo, กับ Nike Move คือเปิดไว้ ตอนจะวิ่งหรือทำอะไรก็ไม่ต้องมานั่งเปิดแอพ เดียวมันจัดการเอง ไม่ว่าจะนับก้าว หรือหาแคลลอลี่ ง่ายมั่กๆ ไม่ต้องนั่งกดหยุดกดเริ่ม บางแอพมีปัญหาแอพ ForceClose ที่วิ่งๆตั้งนานหายในทันใด TT [ประสบการณ์อันเลวร้าย]
 
 <!-- more -->
 
-[![moves-screenshot](https://www.cyruszhang.com/wp-content/uploads/2014/03/moves-screenshot-1024x908.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/03/moves-screenshot.jpg)
+[![moves-screenshot](https://www.cyruszh.com/wp-content/uploads/2014/03/moves-screenshot-1024x908.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/03/moves-screenshot.jpg)
 
 ถึงหัวจะจั่วว่าแอพนี้เกิดมาเพื่อ iPhone 5S ก็เถอะ แต่ไม่ใช่หรอก :3 iPhone 4, 4S, 5 ก็ใช้ได้อย่างราบรื่น รวมถึง Android ด้วยนะครับ :D
 
@@ -44,15 +44,15 @@ Android: [https://play.google.com/store/apps/details?id=com.protogeo.moves](htt
 
 เพียงแค่ว่าคุณดาวน์โหลดแอพนี้ไว้ เปิดครั้งแรกครั้งนึง แล้วปิดไปได้เลย มันก็จะติดตามว่าคุณไปไหนมาไหน ไปยังไง รถ/เดิน/จักรยาน ทำกิจกรรมนั้นนานเท่าไร เสียแคลลอรี่ไปเท่าไร ไปด้วยระยะทางเท่าไร
 
-[![moves-screenshot2](https://www.cyruszhang.com/wp-content/uploads/2014/03/moves-screenshot2-1024x908.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/03/moves-screenshot2.jpg)
+[![moves-screenshot2](https://www.cyruszh.com/wp-content/uploads/2014/03/moves-screenshot2-1024x908.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/03/moves-screenshot2.jpg)
 
 ซึ่งทีแรกผมก็คิดว่าแล้วมันเอาไว้เพื่ออะไร? คำตอบคือคุณเคยไปไหนมาไหน แล้วอยากรู้ไหมว่าเราออกจากนั้นมาตอนไหนไหมครับ [?] ก็ประมาณนี้เลย แอพนี้จะบันทึกตลอด ดังนั้นเพียงแค่คุณก้าวผ่านประตูหน้าบ้านไป 7-11 มันก็จะบอกเลยว่าคุณออกมาตอนไหน ใช้คอลลอรี่เท่าไร ความเร็วเท่าไร และก็มี Plot แผนที่ให้ดูคร่าวๆด้วย [ด้วยเหตุผลด้านการประหยัดพลังงาน]
 
 และหากคุณใช้ใน เครื่องที่มี M7 Processor ซึ่งก็คือ iPhone 5S; M7 จะทำให้การใช้แอพนี้ประหยัดพลังงานมากขึ้น มันสามารถใช้ M7 Processor ในการติดตามการเดินในตึกได้แม่นยำมากกกก แบบก้าวต่อก้าว!!
 
-[![compare-moves](https://www.cyruszhang.com/wp-content/uploads/2014/03/compare-moves.png)
-](https://www.cyruszhang.com/wp-content/uploads/2014/03/compare-moves.png)
+[![compare-moves](https://www.cyruszh.com/wp-content/uploads/2014/03/compare-moves.png)
+](https://www.cyruszh.com/wp-content/uploads/2014/03/compare-moves.png)
 
 แต่ปัญหาสำคัญของแอพนี้ก็คือ มันจะต้องเปิด Gps เป็นช่วงๆ เพื่อเอาไป Plot เป็นแผนที่ ซึ่งตรงนี้มันจะทำให้เปลืองแบตมาก ถึงมากโคตร ใครจะใช้ก็ต้องคำนึงถึงตรงนี้ เดียวจะแบตหมดไม่รู้ตัวนะเออ
 

@@ -16,7 +16,7 @@ tags:
 
 ส่วนเดือนหน้าก็เป็นเดือนเกิดผม ==" วนมาครบปีอีกละ จะแก่ขึ้นอีกปีละ TT
 
-จากโพส [ปณิธานวันเกิด Birthday Resolution](https://www.cyruszhang.com/?p=220) และ [อัพเดต My Birthday Resolution](https://www.cyruszhang.com/?p=812) ตอนนี้ก็เลยถือโอกาศมาเขียนก่อน เดือนหน้าจะได้เขียน Birthday Resolution ของอีกปีพอดี
+จากโพส [ปณิธานวันเกิด Birthday Resolution](https://www.cyruszh.com/?p=220) และ [อัพเดต My Birthday Resolution](https://www.cyruszh.com/?p=812) ตอนนี้ก็เลยถือโอกาศมาเขียนก่อน เดือนหน้าจะได้เขียน Birthday Resolution ของอีกปีพอดี
 
 <!-- more -->
 

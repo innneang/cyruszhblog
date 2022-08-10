@@ -12,8 +12,8 @@ tags:
 - id card
 ---
 
-[![id card and debit card](https://www.cyruszhang.com/wp-content/uploads/2556/07/20130817_161655_1-1024x768.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2556/07/20130817_161655_1.jpg)
+[![id card and debit card](https://www.cyruszh.com/wp-content/uploads/2556/07/20130817_161655_1-1024x768.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2556/07/20130817_161655_1.jpg)
 
 วันนี้มาทำบัตรประจำตัวประชาชน เนื่องจากผมอยากซื้อแอพและบางอย่างมันต้องใช้ในการซื้อของ Ebay, Amazon เนื่องจากของในนี้จะถูกมากกก มีการประมูลนู๊นนี้ และได้สมัคร Internet Banking ไว้จ่ายค่าบริการต่างๆ จะได้ไม่ต้องใช้ True Money ที่โดนหัก % โหด
 

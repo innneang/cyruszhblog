@@ -20,8 +20,8 @@ tags:
 - siri
 ---
 
-[![](https://www.cyruszhang.com/wp-content/uploads/2013/03/wpid-Photo-18-มี.ค.-2556-1311.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/03/wpid-Photo-18-มี.ค.-2556-1311.jpg)
+[![](https://www.cyruszh.com/wp-content/uploads/2013/03/wpid-Photo-18-มี.ค.-2556-1311.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/03/wpid-Photo-18-มี.ค.-2556-1311.jpg)
 
 
 

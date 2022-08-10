@@ -15,8 +15,8 @@ tags:
 
 Angels & Demons
 
-[![angels and demons](https://www.cyruszhang.com/wp-content/uploads/2013/02/cats.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/02/cats.jpg)
+[![angels and demons](https://www.cyruszh.com/wp-content/uploads/2013/02/cats.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/02/cats.jpg)
 
 ภาพยนต์เกี่ยวกับศาสนาคริสต์ แต่งโดยผู้แต่งคนเดียวกับที่แต่ง The Da Vinci Code หรือที่รู้จักกันในนาม Dan Brown ที่มาดูเรื่องนี้ซ้ำเนื่องจากวันนี้มีการสอบวิชาศาสนา ต้องมานั่งเรียนศาสนาอื่น จนถึงศาสนาคริสต์จนนึกถึงหนังเรื่องนี้ ทีแรกก็หาชื่อเรื่องไม่เจอ ต้องไปค้นในตู้
 

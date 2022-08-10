@@ -27,7 +27,7 @@ tags:
 
 ตัว Ghost นั้นเป็น Opensource ใช้สัญญาอนุญาติ MIT นั้นหมายความว่าคุณสามารถดาวน์โหลดมาติดตั้งแล้วใช้เองได้เลย [แบบผม]
 
-![ghost editor](http://img.cyruszhang.com/images/640_ghost_editor.jpg)
+![ghost editor](http://img.cyruszh.com/images/640_ghost_editor.jpg)
 
 
 ซึ่งตัวเว็บของมันอยู่ที่ [Ghost.org](http://iinnn.info/oddmaaeln-ghost-just-a-blogging-platform/Ghost.org) ดาวน์โหลดมาเล่นกันได้เลย :3

@@ -22,7 +22,7 @@ tags:
 
 เดินออกมาจาก 7-11 พร้อมหนังสือหนึ่งเล่ม คนขายอาจงงๆว่าไอ้เด็กนี้บ้ารึเปล่า อ่านหนังสือแก่แดดแบบนี้ :P
 
-![ipag](https://www.cyruszhang.com/wp-content/uploads/2013/05/K12145716-0.jpg)
+![ipag](https://www.cyruszh.com/wp-content/uploads/2013/05/K12145716-0.jpg)
 
 
 <!-- more -->

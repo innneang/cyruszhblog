@@ -18,22 +18,22 @@ tags:
 
 ก่อนอื่นเลยต้องขอบอกว่าเกมนี้มันสามารถเลือกได้ว่าเราจะเล่นภาษาอะไร แน่นอนว่าที่มันดังในไทยก็เพราะว่ามันมีภาษาไทยด้วยนี่แล [กดที่รูปฟันเฟือบมุมซ้ายบนเพื่อเลือกภาษา]
 
-[![emojination](https://www.cyruszhang.com/wp-content/uploads/2013/09/emojination.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/09/emojination.jpg)
+[![emojination](https://www.cyruszh.com/wp-content/uploads/2013/09/emojination.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/09/emojination.jpg)
 
 <!-- more -->
 
 ในเกมนี้มีหน้าตาที่ใช้งานง่าย พอเข้ามาก็เริ่มเดาคำได้เลย [แป่ววว ง่ายไป~~]
 
-[![emojinationreview1](https://www.cyruszhang.com/wp-content/uploads/2013/09/emojinationreview1.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/09/emojinationreview1.jpg)
+[![emojinationreview1](https://www.cyruszh.com/wp-content/uploads/2013/09/emojinationreview1.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/09/emojinationreview1.jpg)
 
 พอตอบเสร็จจะขึ้นว่าแก้คำปริศนาสำเร็จ ได้เลื่อนเลเวล และได้เงิน 5 เหรียญ ไว้ซื้อตัวช่วยต่างๆได้ เช่น ใส่ตัวอักษรให้ 1 ตัว เสีย 50 เหรียญ ตัดตัวอักษรทิ้งใช้ 100 เหรียญ แก้ให้เลย 200 เหรียญ ตอนแรกก็จะให้เงินเรามาลอง 200 เหรียญ ใครทำไม่ได้ก็สามารถซื้อ inapppurchase ได้ [งานนี้ผมซื้อเหรียญเพื่อการรีวิวเลยนะนี่ แต่กดผิดไปหน่อย TT] แต่ว่าในโพสนี้เราจัดเฉลยมาไว้ด้านล่างแล้ว ถ้าใครเข้ามาหาเฉลยก็เลื่อนลงไปได้เลยครับ
 
-[![emojinationreview2](https://www.cyruszhang.com/wp-content/uploads/2013/09/emojinationreview2.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/09/emojinationreview2.jpg)
+[![emojinationreview2](https://www.cyruszh.com/wp-content/uploads/2013/09/emojinationreview2.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/09/emojinationreview2.jpg)
 
-ก่อนหน้านี้ทำ[เฉลยเกม emojimovies](https://www.cyruszhang.com/%e0%b9%80%e0%b8%89%e0%b8%a5%e0%b8%a2%e0%b9%80%e0%b8%81%e0%b8%a1-emojimovies/) ไปแล้ว คราวนี้มาทำเฉลยเกม emojination มั่ง [รีวิวด้วย]
+ก่อนหน้านี้ทำ[เฉลยเกม emojimovies](https://www.cyruszh.com/%e0%b9%80%e0%b8%89%e0%b8%a5%e0%b8%a2%e0%b9%80%e0%b8%81%e0%b8%a1-emojimovies/) ไปแล้ว คราวนี้มาทำเฉลยเกม emojination มั่ง [รีวิวด้วย]
 
 เกมนี้สามารถเล่นได้ทั้งใน [iPhone|iPad] หรือมือถือ Android ของคุณได้ครับ
 

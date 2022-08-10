@@ -14,15 +14,15 @@ tags:
 - paypal
 ---
 
-[![buyerprotection](https://www.cyruszhang.com/wp-content/uploads/2013/12/buyerprotection.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/12/buyerprotection.jpg)
+[![buyerprotection](https://www.cyruszh.com/wp-content/uploads/2013/12/buyerprotection.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/12/buyerprotection.jpg)
 
-เรื่องของเรื่องคือผมได้สั่งเคสมือถือ Samsung Galaxy S3 สุดรักมาเพราะเคสเก่าพังยับ และตอนนี้ในตลาดก็ไม่มีอะไรถูกใจเลย เลยตัดสินใจเปิด ebay แล้วหาสิ่งที่เหมาะสมกับราคา กดสั่งตัดเงินจาก[บัตรเดบิต](https://www.cyruszhang.com/first-idcard-first-debitcard/) ฉับๆๆ รอมาตั้งนานก็ไม่มาซะที จน ebay มันส่งข้อความมาบอกว่าคุณได้ข้อความรึยัง เป็นไงบ้าง ผมก็ตามน้ำส่งข้อความไปถามของเป็นไงมั้ง [?] ได้คำตอบประมาณนี้
+เรื่องของเรื่องคือผมได้สั่งเคสมือถือ Samsung Galaxy S3 สุดรักมาเพราะเคสเก่าพังยับ และตอนนี้ในตลาดก็ไม่มีอะไรถูกใจเลย เลยตัดสินใจเปิด ebay แล้วหาสิ่งที่เหมาะสมกับราคา กดสั่งตัดเงินจาก[บัตรเดบิต](https://www.cyruszh.com/first-idcard-first-debitcard/) ฉับๆๆ รอมาตั้งนานก็ไม่มาซะที จน ebay มันส่งข้อความมาบอกว่าคุณได้ข้อความรึยัง เป็นไงบ้าง ผมก็ตามน้ำส่งข้อความไปถามของเป็นไงมั้ง [?] ได้คำตอบประมาณนี้
 
 <!-- more -->
 
-[![ebay message](https://www.cyruszhang.com/wp-content/uploads/2013/12/ebay-message.png)
-](https://www.cyruszhang.com/wp-content/uploads/2013/12/ebay-message.png)
+[![ebay message](https://www.cyruszh.com/wp-content/uploads/2013/12/ebay-message.png)
+](https://www.cyruszh.com/wp-content/uploads/2013/12/ebay-message.png)
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 พอตื่นมาสักแปดโมงเปิดเมลล์ก็ได้รับข้อความว่าได้รับ Full Refund แล้ว แต่เงินยังไม่เข้าบัญชี [อันนี้ตอนหลังโทรไปถาม Kbank Call Center บอกว่าให้รอไป ตอนนี้ก็รออยู่ เป็นไงต่อเดียวจะมาเขียนไว้อีกที :3]
 
-[![myparcel](https://www.cyruszhang.com/wp-content/uploads/2013/12/myparcel-1024x768.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2013/12/myparcel.jpg)
+[![myparcel](https://www.cyruszh.com/wp-content/uploads/2013/12/myparcel-1024x768.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2013/12/myparcel.jpg)
 
 แต่ที่หน้าขำคือพอผมไปเรียนปั้ป กลับมาบ้านตอนเย็นวันนั้น ของมาส่ง!!!!
 

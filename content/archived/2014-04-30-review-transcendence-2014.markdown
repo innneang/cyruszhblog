@@ -15,8 +15,8 @@ tags:
 - Transcendence
 ---
 
-[![Johnny-Depp-image-johnny-depp-poster](https://www.cyruszhang.com/wp-content/uploads/2014/04/Johnny-Depp-image-johnny-depp-poster.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/04/Johnny-Depp-image-johnny-depp-poster.jpg)
+[![Johnny-Depp-image-johnny-depp-poster](https://www.cyruszh.com/wp-content/uploads/2014/04/Johnny-Depp-image-johnny-depp-poster.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/04/Johnny-Depp-image-johnny-depp-poster.jpg)
 
 หนังยอดแย่ครับ อย่าดูครับ เด็ดขาดเลยนะครับ
 

@@ -13,8 +13,8 @@ tags:
 - the legend of hercules
 ---
 
-[![the-legend-of-hercules](https://www.cyruszhang.com/wp-content/uploads/2014/02/the-legend-of-hercules.jpg)
-](https://www.cyruszhang.com/wp-content/uploads/2014/02/the-legend-of-hercules.jpg)
+[![the-legend-of-hercules](https://www.cyruszh.com/wp-content/uploads/2014/02/the-legend-of-hercules.jpg)
+](https://www.cyruszh.com/wp-content/uploads/2014/02/the-legend-of-hercules.jpg)
 
 เปิดเรื่อง กราฟฟิกอลังการ เนื้อเรื่องแทบไม่มีอะไร
 
