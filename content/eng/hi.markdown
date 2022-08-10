@@ -4,7 +4,7 @@ title: "Hi; This is my first Eng blog"
 description: 
 date: 2022-08-9T22:49:00+07:00
 draft: false
-url: /2022/07/first
+url: /2022/08/first
 categories:
 - Innn's Diary
 tags:
