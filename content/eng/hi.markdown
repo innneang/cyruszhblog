@@ -2,7 +2,7 @@
 author: in
 title: "Hi; This is my first Eng blog"
 description: 
-date: 2022-08-9T22:49:00+07:00
+date: 2022-08-09T22:49:00+07:00
 draft: false
 url: /2022/08/first
 categories:
