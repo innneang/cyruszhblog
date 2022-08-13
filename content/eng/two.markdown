@@ -6,9 +6,9 @@ date: 2022-08-11T22:49:00+07:00
 draft: false
 url: /2022/08/two
 categories:
-
-- Innn's Diary  tags:
-  lazy: true
+- Innn's Diary
+tags:
+lazy: true
 ```
 
 Today is eleventh of aug
