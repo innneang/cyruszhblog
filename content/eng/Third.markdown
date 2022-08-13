@@ -2,7 +2,7 @@
 author: in
 title: "Third"
 description: 
-date: 2022-08-13T22:49:00+07:00
+date: 2022-08-13T19:49:00+07:00
 draft: false
 url: /2022/08/thrid
 categories:
