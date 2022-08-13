@@ -1,6 +1,6 @@
-```yaml
+---
 author: in
-title: "second"
+title: "Two"
 description: 
 date: 2022-08-11T22:49:00+07:00
 draft: false
@@ -9,7 +9,8 @@ categories:
 - Innn's Diary
 tags:
 lazy: true
-```
+
+---
 
 Today is eleventh of aug
 
